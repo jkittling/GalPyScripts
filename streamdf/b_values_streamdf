@@ -1,0 +1,3634 @@
+galpyWarning: Full radial angle range not covered for at least one object; actions are likely not reliable
+galpyWarning: Warning: progenitor's solarmotion does not agree with streamdf's vsun (after accounting for vo); this may have unexpected consequences when projecting into observables
+galpyWarning: In versions >1.3, the output unit of streamdf.misalignment has been changed to radian (from degree before)
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/actionAngle/actionAngleIsochrone.py:236: RuntimeWarning: invalid value encountered in sqrt
+  Jr= self.amp/numpy.sqrt(-2.*E)\
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/actionAngle/actionAngleIsochrone.py:239: RuntimeWarning: invalid value encountered in power
+  Omegar= (-2.*E)**1.5/self.amp
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/actionAngle/actionAngleIsochrone.py:263: RuntimeWarning: invalid value encountered in sqrt
+  tan11= numpy.arctan(numpy.sqrt((1.+e)/(1.-e))*numpy.tan(0.5*eta))
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/actionAngle/actionAngleIsochrone.py:264: RuntimeWarning: invalid value encountered in sqrt
+  tan12= numpy.arctan(numpy.sqrt((1.+e+2.*self.b/c)/(1.-e+2.*self.b/c))*numpy.tan(0.5*eta))
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/numpy/linalg/linalg.py:2139: RuntimeWarning: invalid value encountered in det
+  r = _umath_linalg.det(a, signature=signature)
+
+7.0 didn't work!
+7.01 didn't work!
+7.02 didn't work!
+7.03 didn't work!
+7.04 didn't work!
+7.05 didn't work!
+7.06 didn't work!
+7.07 didn't work!
+7.08 didn't work!
+7.09 didn't work!
+7.1 didn't work!
+7.11 didn't work!
+7.12 didn't work!
+7.13 didn't work!
+7.14 didn't work!
+7.15 didn't work!
+7.16 didn't work!
+7.17 didn't work!
+7.18 didn't work!
+7.19 didn't work!
+7.2 didn't work!
+7.21 didn't work!
+7.22 didn't work!
+7.23 didn't work!
+7.24 didn't work!
+7.25 didn't work!
+7.26 didn't work!
+7.27 didn't work!
+7.28 didn't work!
+7.29 didn't work!
+7.3 didn't work!
+7.31 didn't work!
+7.32 didn't work!
+7.33 didn't work!
+7.34 didn't work!
+7.35 didn't work!
+7.36 didn't work!
+7.37 didn't work!
+7.38 didn't work!
+galpyWarning: Full vertical angle range not covered for at least one object; actions are likely not reliable
+7.39 produced a value error
+7.4 didn't work!
+7.41 didn't work!
+7.42 didn't work!
+7.43 didn't work!
+7.44 didn't work!
+7.45 didn't work!
+7.46 didn't work!
+7.47 didn't work!
+7.48 didn't work!
+7.49 didn't work!
+7.5 didn't work!
+7.51 didn't work!
+7.52 didn't work!
+7.53 didn't work!
+7.54 didn't work!
+7.55 didn't work!
+7.5600000000000005 didn't work!
+7.57 didn't work!
+7.58 didn't work!
+7.59 didn't work!
+7.6 didn't work!
+7.61 produced a value error
+7.62 didn't work!
+7.63 didn't work!
+7.64 didn't work!
+7.65 didn't work!
+7.66 didn't work!
+7.67 didn't work!
+7.68 didn't work!
+7.69 didn't work!
+7.7 didn't work!
+7.71 didn't work!
+7.72 didn't work!
+7.73 didn't work!
+7.74 didn't work!
+7.75 didn't work!
+7.76 didn't work!
+7.77 didn't work!
+7.78 didn't work!
+7.79 didn't work!
+7.8 didn't work!
+7.8100000000000005 didn't work!
+7.82 didn't work!
+7.83 didn't work!
+7.84 didn't work!
+7.85 didn't work!
+7.86 didn't work!
+7.87 didn't work!
+7.88 didn't work!
+7.89 didn't work!
+7.9 didn't work!
+7.91 didn't work!
+7.92 didn't work!
+7.93 didn't work!
+7.94 didn't work!
+7.95 didn't work!
+7.96 didn't work!
+7.97 didn't work!
+7.98 didn't work!
+7.99 didn't work!
+8.0 didn't work!
+8.01 didn't work!
+8.02 didn't work!
+8.03 didn't work!
+8.04 didn't work!
+8.05 didn't work!
+8.06 didn't work!
+8.07 didn't work!
+8.08 didn't work!
+8.09 didn't work!
+8.1 didn't work!
+8.11 didn't work!
+8.120000000000001 didn't work!
+8.13 didn't work!
+8.14 didn't work!
+8.15 didn't work!
+8.16 didn't work!
+8.17 didn't work!
+8.18 didn't work!
+8.19 didn't work!
+8.2 didn't work!
+8.21 didn't work!
+8.22 didn't work!
+8.23 didn't work!
+8.24 didn't work!
+8.25 didn't work!
+8.26 didn't work!
+8.27 didn't work!
+8.28 didn't work!
+8.29 didn't work!
+8.3 didn't work!
+8.31 didn't work!
+8.32 didn't work!
+8.33 didn't work!
+8.34 didn't work!
+8.35 didn't work!
+8.36 didn't work!
+8.370000000000001 didn't work!
+8.38 didn't work!
+8.39 didn't work!
+8.4 didn't work!
+8.41 didn't work!
+8.42 didn't work!
+8.43 didn't work!
+8.44 didn't work!
+8.45 didn't work!
+8.46 didn't work!
+8.47 didn't work!
+8.48 didn't work!
+8.49 didn't work!
+8.5 didn't work!
+8.51 didn't work!
+8.52 didn't work!
+8.53 didn't work!
+8.54 didn't work!
+8.55 didn't work!
+8.56 didn't work!
+8.57 didn't work!
+8.58 didn't work!
+8.59 didn't work!
+8.6 didn't work!
+8.61 didn't work!
+8.620000000000001 didn't work!
+8.63 didn't work!
+8.64 didn't work!
+8.65 didn't work!
+8.66 didn't work!
+8.67 didn't work!
+8.68 didn't work!
+8.69 didn't work!
+8.7 didn't work!
+8.71 didn't work!
+8.72 didn't work!
+8.73 didn't work!
+8.74 didn't work!
+8.75 didn't work!
+8.76 didn't work!
+8.77 didn't work!
+8.78 didn't work!
+8.79 didn't work!
+8.8 didn't work!
+8.81 didn't work!
+8.82 didn't work!
+8.83 didn't work!
+8.84 produced a value error
+8.85 didn't work!
+8.86 didn't work!
+8.870000000000001 didn't work!
+8.88 didn't work!
+8.89 didn't work!
+8.9 didn't work!
+8.91 didn't work!
+8.92 didn't work!
+8.93 didn't work!
+8.94 didn't work!
+8.95 didn't work!
+8.96 didn't work!
+8.97 didn't work!
+8.98 didn't work!
+8.99 didn't work!
+9.0 didn't work!
+9.01 didn't work!
+9.02 didn't work!
+9.030000000000001 didn't work!
+9.04 didn't work!
+9.05 didn't work!
+9.06 didn't work!
+9.07 produced a value error
+9.08 didn't work!
+9.09 didn't work!
+9.1 didn't work!
+9.11 didn't work!
+9.120000000000001 didn't work!
+9.129999999999999 didn't work!
+9.14 didn't work!
+9.15 didn't work!
+9.16 didn't work!
+9.17 didn't work!
+9.18 didn't work!
+9.19 didn't work!
+9.2 didn't work!
+9.21 didn't work!
+9.22 didn't work!
+9.23 didn't work!
+9.24 didn't work!
+9.25 didn't work!
+9.26 didn't work!
+9.27 didn't work!
+9.280000000000001 didn't work!
+9.29 didn't work!
+9.3 didn't work!
+9.31 didn't work!
+9.32 didn't work!
+9.33 didn't work!
+9.34 didn't work!
+9.35 didn't work!
+9.36 didn't work!
+9.370000000000001 didn't work!
+9.379999999999999 didn't work!
+9.39 didn't work!
+9.4 didn't work!
+9.41 didn't work!
+9.42 didn't work!
+9.43 didn't work!
+9.44 didn't work!
+9.45 didn't work!
+9.46 didn't work!
+9.47 didn't work!
+9.48 didn't work!
+9.49 didn't work!
+9.5 didn't work!
+9.51 didn't work!
+9.52 didn't work!
+9.530000000000001 didn't work!
+9.54 didn't work!
+9.55 didn't work!
+9.56 didn't work!
+9.57 didn't work!
+9.58 didn't work!
+9.59 didn't work!
+9.6 didn't work!
+9.61 didn't work!
+9.620000000000001 didn't work!
+9.629999999999999 didn't work!
+9.64 didn't work!
+9.65 didn't work!
+9.66 didn't work!
+9.67 didn't work!
+9.68 didn't work!
+9.69 didn't work!
+9.7 didn't work!
+9.71 didn't work!
+9.72 didn't work!
+9.73 produced a value error
+9.74 produced a value error
+9.75 didn't work!
+9.76 didn't work!
+9.77 didn't work!
+9.780000000000001 produced a value error
+9.79 didn't work!
+9.8 didn't work!
+9.81 didn't work!
+9.82 didn't work!
+9.83 didn't work!
+9.84 didn't work!
+9.85 didn't work!
+9.86 produced a value error
+9.870000000000001 didn't work!
+9.879999999999999 produced a value error
+9.89 didn't work!
+9.9 didn't work!
+9.91 didn't work!
+9.92 didn't work!
+9.93 didn't work!
+9.94 didn't work!
+9.95 didn't work!
+9.96 didn't work!
+9.97 didn't work!
+9.98 produced a value error
+9.99 didn't work!
+10.0 didn't work!
+10.01 didn't work!
+10.02 didn't work!
+10.030000000000001 didn't work!
+10.04 didn't work!
+10.05 didn't work!
+10.06 didn't work!
+10.07 didn't work!
+10.08 didn't work!
+10.09 didn't work!
+10.1 didn't work!
+10.11 produced a value error
+10.120000000000001 didn't work!
+10.129999999999999 didn't work!
+10.14 didn't work!
+10.15 didn't work!
+10.16 didn't work!
+10.17 didn't work!
+10.18 didn't work!
+10.19 didn't work!
+10.2 didn't work!
+10.21 didn't work!
+10.22 didn't work!
+10.23 didn't work!
+10.24 didn't work!
+10.25 didn't work!
+10.26 didn't work!
+10.27 didn't work!
+10.280000000000001 didn't work!
+10.29 didn't work!
+10.3 didn't work!
+10.31 didn't work!
+10.32 didn't work!
+10.33 didn't work!
+10.34 didn't work!
+10.35 produced a value error
+10.36 didn't work!
+10.370000000000001 didn't work!
+10.379999999999999 didn't work!
+10.39 didn't work!
+10.4 didn't work!
+
+10.41 produced a value error
+10.42 didn't work!
+10.43 didn't work!
+10.44 didn't work!
+10.45 didn't work!
+10.46 didn't work!
+10.47 produced a value error
+10.48 didn't work!
+10.49 didn't work!
+10.5 didn't work!
+10.51 didn't work!
+10.52 didn't work!
+10.530000000000001 didn't work!
+10.54 didn't work!
+10.55 didn't work!
+10.56 didn't work!
+10.57 didn't work!
+10.58 didn't work!
+10.59 didn't work!
+10.6 didn't work!
+10.61 didn't work!
+10.620000000000001 produced a value error
+10.629999999999999 didn't work!
+10.64 didn't work!
+10.65 didn't work!
+10.66 didn't work!
+10.67 didn't work!
+10.68 didn't work!
+10.69 didn't work!
+10.7 didn't work!
+10.71 didn't work!
+10.72 didn't work!
+10.73 didn't work!
+10.74 didn't work!
+10.75 didn't work!
+10.76 didn't work!
+10.77 didn't work!
+10.780000000000001 didn't work!
+10.79 didn't work!
+10.8 didn't work!
+10.81 didn't work!
+10.82 didn't work!
+10.83 didn't work!
+10.84 didn't work!
+10.85 didn't work!
+10.86 didn't work!
+10.870000000000001 didn't work!
+10.879999999999999 didn't work!
+10.89 didn't work!
+10.9 didn't work!
+10.91 didn't work!
+10.92 didn't work!
+10.93 didn't work!
+10.94 didn't work!
+10.95 didn't work!
+10.96 didn't work!
+10.97 didn't work!
+10.98 didn't work!
+10.99 didn't work!
+11.0 didn't work!
+11.01 didn't work!
+11.02 didn't work!
+11.030000000000001 didn't work!
+11.04 produced a value error
+11.05 didn't work!
+11.06 didn't work!
+11.07 didn't work!
+11.08 didn't work!
+11.09 didn't work!
+11.1 didn't work!
+11.11 didn't work!
+11.120000000000001 didn't work!
+11.129999999999999 produced a value error
+11.14 didn't work!
+11.15 didn't work!
+11.16 didn't work!
+11.17 didn't work!
+11.18 didn't work!
+11.190000000000001 didn't work!
+11.2 didn't work!
+11.21 didn't work!
+11.219999999999999 didn't work!
+11.23 didn't work!
+11.24 didn't work!
+11.25 didn't work!
+11.26 didn't work!
+11.27 didn't work!
+11.280000000000001 didn't work!
+11.29 didn't work!
+11.3 didn't work!
+11.31 didn't work!
+11.32 didn't work!
+11.33 didn't work!
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:1058: RuntimeWarning: invalid value encountered in log
+  self._logmeandetdOdJp= numpy.log(self._meandetdOdJp)
+
+No nans/infs reported. 11.34 works!
+11.350000000000001 didn't work!
+11.36 didn't work!
+11.370000000000001 produced a value error
+11.379999999999999 didn't work!
+11.39 didn't work!
+11.4 didn't work!
+11.41 didn't work!
+11.42 didn't work!
+11.43 didn't work!
+11.440000000000001 produced a value error
+11.45 didn't work!
+11.46 didn't work!
+11.469999999999999 didn't work!
+11.48 didn't work!
+11.49 didn't work!
+11.5 didn't work!
+11.51 didn't work!
+11.52 didn't work!
+11.530000000000001 didn't work!
+11.54 didn't work!
+11.55 didn't work!
+11.56 didn't work!
+11.57 didn't work!
+11.58 didn't work!
+11.59 didn't work!
+11.600000000000001 didn't work!
+11.61 didn't work!
+11.620000000000001 didn't work!
+11.629999999999999 didn't work!
+11.64 didn't work!
+11.65 produced a value error
+11.66 didn't work!
+11.67 didn't work!
+11.68 didn't work!
+11.690000000000001 didn't work!
+11.7 didn't work!
+11.71 didn't work!
+11.719999999999999 didn't work!
+11.73 didn't work!
+11.74 didn't work!
+11.75 didn't work!
+11.76 didn't work!
+11.77 didn't work!
+11.780000000000001 didn't work!
+11.79 didn't work!
+11.8 didn't work!
+11.81 didn't work!
+11.82 didn't work!
+11.83 didn't work!
+11.84 didn't work!
+11.850000000000001 didn't work!
+11.86 didn't work!
+11.870000000000001 didn't work!
+11.879999999999999 produced a value error
+11.89 didn't work!
+11.9 didn't work!
+11.91 didn't work!
+11.92 didn't work!
+11.93 didn't work!
+11.940000000000001 didn't work!
+11.95 didn't work!
+11.96 didn't work!
+11.969999999999999 didn't work!
+11.98 didn't work!
+11.99 didn't work!
+12.0 didn't work!
+12.01 didn't work!
+12.02 didn't work!
+12.030000000000001 produced a value error
+12.04 didn't work!
+12.05 didn't work!
+12.06 produced a value error
+12.07 didn't work!
+12.08 produced a value error
+12.09 didn't work!
+12.100000000000001 didn't work!
+12.11 didn't work!
+12.120000000000001 didn't work!
+12.129999999999999 produced a value error
+12.14 didn't work!
+12.15 didn't work!
+12.16 didn't work!
+12.17 didn't work!
+12.18 didn't work!
+12.190000000000001 didn't work!
+12.2 didn't work!
+12.21 didn't work!
+12.219999999999999 didn't work!
+12.23 didn't work!
+12.24 didn't work!
+12.25 didn't work!
+12.26 didn't work!
+12.27 didn't work!
+12.280000000000001 didn't work!
+12.29 produced a value error
+12.3 didn't work!
+12.31 produced a value error
+12.32 didn't work!
+12.33 didn't work!
+12.34 didn't work!
+12.350000000000001 didn't work!
+12.36 didn't work!
+12.370000000000001 didn't work!
+12.379999999999999 didn't work!
+12.39 didn't work!
+12.4 didn't work!
+12.41 didn't work!
+12.42 didn't work!
+12.43 didn't work!
+12.440000000000001 didn't work!
+12.45 didn't work!
+12.46 didn't work!
+12.469999999999999 didn't work!
+12.48 didn't work!
+12.49 didn't work!
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:3351: RuntimeWarning: invalid value encountered in divide
+  jac[1,ii]= (tlz-lz)/dxv[ii]
+
+12.5 didn't work!
+12.51 didn't work!
+12.52 didn't work!
+12.530000000000001 didn't work!
+12.54 didn't work!
+12.55 produced a value error
+12.56 didn't work!
+12.57 didn't work!
+12.58 didn't work!
+12.59 didn't work!
+12.600000000000001 produced a value error
+12.61 didn't work!
+12.620000000000001 didn't work!
+12.629999999999999 didn't work!
+12.64 produced a value error
+12.65 didn't work!
+12.66 didn't work!
+12.67 didn't work!
+12.68 didn't work!
+12.690000000000001 didn't work!
+12.7 didn't work!
+12.71 didn't work!
+12.719999999999999 didn't work!
+12.73 didn't work!
+12.74 didn't work!
+12.75 didn't work!
+12.76 didn't work!
+12.77 didn't work!
+12.780000000000001 didn't work!
+12.79 didn't work!
+12.8 didn't work!
+12.81 didn't work!
+12.82 didn't work!
+12.83 didn't work!
+12.84 produced a value error
+12.850000000000001 didn't work!
+12.86 didn't work!
+12.870000000000001 didn't work!
+12.879999999999999 didn't work!
+12.89 produced a value error
+12.9 produced a value error
+12.91 produced a value error
+12.92 didn't work!
+12.93 didn't work!
+12.940000000000001 didn't work!
+12.95 didn't work!
+12.96 produced a value error
+12.969999999999999 didn't work!
+12.98 didn't work!
+12.99 produced a value error
+13.0 didn't work!
+13.01 didn't work!
+13.02 didn't work!
+13.030000000000001 didn't work!
+13.04 didn't work!
+13.05 didn't work!
+13.06 didn't work!
+13.07 didn't work!
+13.08 didn't work!
+13.09 didn't work!
+13.100000000000001 produced a value error
+13.11 didn't work!
+13.120000000000001 didn't work!
+13.129999999999999 didn't work!
+13.14 didn't work!
+13.15 didn't work!
+13.16 didn't work!
+13.17 didn't work!
+13.18 didn't work!
+13.190000000000001 produced a value error
+13.2 didn't work!
+13.21 didn't work!
+13.219999999999999 didn't work!
+13.23 didn't work!
+13.24 didn't work!
+13.25 didn't work!
+13.26 didn't work!
+13.27 produced a value error
+13.280000000000001 didn't work!
+13.29 didn't work!
+13.3 didn't work!
+13.31 didn't work!
+13.32 didn't work!
+13.33 didn't work!
+13.34 didn't work!
+13.350000000000001 didn't work!
+13.36 didn't work!
+13.370000000000001 didn't work!
+13.379999999999999 didn't work!
+13.39 didn't work!
+13.4 didn't work!
+13.41 didn't work!
+13.42 didn't work!
+13.43 didn't work!
+13.440000000000001 didn't work!
+13.45 didn't work!
+13.46 didn't work!
+13.469999999999999 produced a value error
+13.48 didn't work!
+13.49 didn't work!
+13.5 didn't work!
+13.51 didn't work!
+13.52 didn't work!
+13.530000000000001 didn't work!
+13.54 didn't work!
+13.55 didn't work!
+13.56 didn't work!
+13.57 didn't work!
+13.58 produced a value error
+13.59 didn't work!
+13.600000000000001 didn't work!
+13.61 didn't work!
+13.620000000000001 didn't work!
+13.629999999999999 didn't work!
+13.64 didn't work!
+13.65 produced a value error
+13.66 didn't work!
+13.67 didn't work!
+13.68 produced a value error
+13.690000000000001 didn't work!
+13.7 didn't work!
+13.71 produced a value error
+13.719999999999999 didn't work!
+13.73 produced a value error
+13.74 produced a value error
+13.75 didn't work!
+13.76 didn't work!
+13.77 didn't work!
+13.780000000000001 didn't work!
+13.79 produced a value error
+13.8 didn't work!
+13.81 didn't work!
+13.82 didn't work!
+13.83 didn't work!
+13.84 didn't work!
+
+13.850000000000001 didn't work!
+13.86 didn't work!
+13.870000000000001 didn't work!
+13.879999999999999 didn't work!
+13.89 produced a value error
+13.9 didn't work!
+13.91 didn't work!
+13.92 didn't work!
+13.93 produced a value error
+13.940000000000001 didn't work!
+13.95 didn't work!
+13.96 didn't work!
+13.969999999999999 didn't work!
+13.98 produced a value error
+13.99 didn't work!
+14.0 didn't work!
+14.01 didn't work!
+14.02 didn't work!
+14.030000000000001 didn't work!
+14.04 produced a value error
+14.05 didn't work!
+14.06 produced a value error
+14.07 didn't work!
+14.08 produced a value error
+14.09 didn't work!
+14.100000000000001 didn't work!
+14.11 produced a value error
+14.120000000000001 didn't work!
+14.129999999999999 produced a value error
+14.14 didn't work!
+14.15 didn't work!
+14.16 didn't work!
+14.17 produced a value error
+14.18 didn't work!
+14.190000000000001 produced a value error
+14.2 produced a value error
+14.21 didn't work!
+14.219999999999999 produced a value error
+14.23 produced a value error
+14.24 produced a value error
+14.25 produced a value error
+14.26 didn't work!
+14.27 didn't work!
+14.280000000000001 didn't work!
+14.29 didn't work!
+14.3 didn't work!
+14.31 didn't work!
+14.32 produced a value error
+14.33 didn't work!
+14.34 didn't work!
+14.350000000000001 produced a value error
+14.36 didn't work!
+14.370000000000001 didn't work!
+14.379999999999999 didn't work!
+14.39 didn't work!
+14.4 produced a value error
+14.41 didn't work!
+14.42 didn't work!
+14.43 didn't work!
+14.440000000000001 didn't work!
+14.45 didn't work!
+14.46 didn't work!
+14.469999999999999 didn't work!
+14.48 didn't work!
+14.49 didn't work!
+14.5 produced a value error
+14.51 produced a value error
+14.52 didn't work!
+14.530000000000001 didn't work!
+14.54 didn't work!
+14.55 produced a value error
+14.56 didn't work!
+14.57 produced a value error
+14.58 didn't work!
+14.59 didn't work!
+14.600000000000001 produced a value error
+14.61 produced a value error
+14.620000000000001 didn't work!
+14.629999999999999 didn't work!
+14.64 didn't work!
+14.65 didn't work!
+14.66 produced a value error
+14.67 didn't work!
+14.68 didn't work!
+14.690000000000001 produced a value error
+14.7 didn't work!
+14.71 didn't work!
+14.719999999999999 didn't work!
+14.73 didn't work!
+14.74 didn't work!
+14.75 produced a value error
+14.76 didn't work!
+14.77 produced a value error
+14.780000000000001 didn't work!
+14.79 didn't work!
+14.8 didn't work!
+14.81 didn't work!
+14.82 didn't work!
+14.83 didn't work!
+14.84 produced a value error
+14.850000000000001 produced a value error
+14.86 didn't work!
+14.870000000000001 didn't work!
+14.879999999999999 didn't work!
+14.89 produced a value error
+14.9 produced a value error
+14.91 didn't work!
+14.92 didn't work!
+14.93 didn't work!
+14.940000000000001 didn't work!
+14.95 produced a value error
+14.96 didn't work!
+14.969999999999999 didn't work!
+14.98 didn't work!
+14.99 didn't work!
+15.0 didn't work!
+15.01 produced a value error
+15.02 didn't work!
+15.03 didn't work!
+15.040000000000001 didn't work!
+15.05 didn't work!
+15.06 didn't work!
+15.07 didn't work!
+15.08 didn't work!
+15.09 didn't work!
+15.1 didn't work!
+15.11 didn't work!
+15.120000000000001 produced a value error
+15.13 didn't work!
+15.14 didn't work!
+15.15 didn't work!
+15.16 didn't work!
+15.17 didn't work!
+15.18 didn't work!
+15.19 didn't work!
+15.2 didn't work!
+15.21 produced a value error
+15.22 produced a value error
+15.23 didn't work!
+15.24 produced a value error
+15.25 produced a value error
+15.26 didn't work!
+15.27 didn't work!
+15.28 didn't work!
+15.290000000000001 didn't work!
+15.3 didn't work!
+15.31 didn't work!
+15.32 didn't work!
+15.33 didn't work!
+15.34 didn't work!
+15.35 didn't work!
+15.36 didn't work!
+15.370000000000001 didn't work!
+15.38 didn't work!
+15.39 didn't work!
+15.4 produced a value error
+15.41 didn't work!
+15.42 didn't work!
+15.43 produced a value error
+15.44 didn't work!
+15.45 didn't work!
+15.46 didn't work!
+15.47 didn't work!
+15.48 didn't work!
+15.49 didn't work!
+15.5 didn't work!
+15.51 didn't work!
+15.52 produced a value error
+15.53 produced a value error
+15.540000000000001 didn't work!
+15.55 didn't work!
+15.56 didn't work!
+15.57 produced a value error
+15.58 didn't work!
+15.59 didn't work!
+15.6 produced a value error
+15.61 didn't work!
+15.620000000000001 didn't work!
+15.63 didn't work!
+15.64 produced a value error
+15.65 didn't work!
+15.66 didn't work!
+15.67 didn't work!
+15.68 didn't work!
+15.69 produced a value error
+15.700000000000001 didn't work!
+15.71 didn't work!
+15.72 didn't work!
+15.73 didn't work!
+15.74 didn't work!
+15.75 didn't work!
+15.76 didn't work!
+15.77 didn't work!
+15.78 produced a value error
+15.790000000000001 didn't work!
+15.8 didn't work!
+15.81 didn't work!
+15.82 didn't work!
+15.83 produced a value error
+15.84 produced a value error
+15.85 produced a value error
+15.86 didn't work!
+15.870000000000001 produced a value error
+15.88 didn't work!
+15.89 produced a value error
+15.9 didn't work!
+15.91 didn't work!
+15.92 produced a value error
+15.93 didn't work!
+15.94 didn't work!
+15.950000000000001 didn't work!
+15.96 didn't work!
+15.97 produced a value error
+15.98 didn't work!
+15.99 produced a value error
+16.0 didn't work!
+16.009999999999998 didn't work!
+16.02 didn't work!
+16.03 produced a value error
+16.04 didn't work!
+16.05 didn't work!
+16.060000000000002 didn't work!
+16.07 didn't work!
+16.08 didn't work!
+16.09 didn't work!
+16.1 didn't work!
+16.11 didn't work!
+16.12 produced a value error
+16.130000000000003 produced a value error
+16.14 produced a value error
+16.15 didn't work!
+16.16 didn't work!
+16.17 produced a value error
+16.18 didn't work!
+16.189999999999998 produced a value error
+16.200000000000003 didn't work!
+16.21 didn't work!
+16.22 didn't work!
+16.23 didn't work!
+16.240000000000002 didn't work!
+16.25 didn't work!
+16.259999999999998 didn't work!
+16.27 didn't work!
+16.28 didn't work!
+No nans/infs reported. 16.29 works!
+16.3 didn't work!
+16.310000000000002 produced a value error
+16.32 didn't work!
+16.33 didn't work!
+16.34 didn't work!
+16.35 didn't work!
+16.36 didn't work!
+16.37 didn't work!
+16.380000000000003 didn't work!
+16.39 didn't work!
+16.4 didn't work!
+16.41 didn't work!
+16.42 didn't work!
+16.43 didn't work!
+16.439999999999998 didn't work!
+16.450000000000003 didn't work!
+16.46 didn't work!
+16.47 didn't work!
+16.48 didn't work!
+16.490000000000002 didn't work!
+16.5 didn't work!
+16.509999999999998 didn't work!
+16.52 produced a value error
+16.53 didn't work!
+16.54 didn't work!
+16.55 didn't work!
+16.560000000000002 didn't work!
+16.57 produced a value error
+16.58 didn't work!
+16.59 didn't work!
+16.6 produced a value error
+16.61 didn't work!
+16.62 didn't work!
+16.630000000000003 didn't work!
+16.64 didn't work!
+16.65 didn't work!
+16.66 produced a value error
+16.67 didn't work!
+16.68 produced a value error
+16.689999999999998 didn't work!
+16.700000000000003 didn't work!
+16.71 didn't work!
+16.72 produced a value error
+16.73 didn't work!
+16.740000000000002 didn't work!
+16.75 didn't work!
+16.759999999999998 didn't work!
+16.77 didn't work!
+16.78 didn't work!
+16.79 didn't work!
+16.8 didn't work!
+16.810000000000002 produced a value error
+16.82 didn't work!
+16.83 didn't work!
+16.84 didn't work!
+16.85 didn't work!
+16.86 didn't work!
+16.87 didn't work!
+16.880000000000003 didn't work!
+16.89 produced a value error
+16.9 produced a value error
+16.91 produced a value error
+16.92 didn't work!
+16.93 didn't work!
+16.939999999999998 didn't work!
+16.950000000000003 didn't work!
+16.96 didn't work!
+16.97 produced a value error
+16.98 didn't work!
+16.990000000000002 didn't work!
+17.0 didn't work!
+17.009999999999998 didn't work!
+17.02 didn't work!
+17.03 didn't work!
+17.04 produced a value error
+17.05 didn't work!
+17.060000000000002 didn't work!
+17.07 produced a value error
+17.08 didn't work!
+17.09 didn't work!
+17.1 produced a value error
+17.11 didn't work!
+17.12 didn't work!
+17.130000000000003 didn't work!
+17.14 didn't work!
+17.15 didn't work!
+17.16 didn't work!
+17.17 didn't work!
+17.18 didn't work!
+17.189999999999998 didn't work!
+17.200000000000003 didn't work!
+17.21 didn't work!
+17.22 didn't work!
+17.23 didn't work!
+17.240000000000002 produced a value error
+17.25 didn't work!
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:3257: RuntimeWarning: invalid value encountered in sqrt
+  correlations= numpy.diag(0.5*numpy.ones(3))*numpy.sqrt(tsigOdiag*tsigadiag)
+
+17.259999999999998 didn't work!
+
+17.27 didn't work!
+17.28 didn't work!
+17.29 didn't work!
+17.3 didn't work!
+17.310000000000002 didn't work!
+17.32 didn't work!
+17.33 didn't work!
+17.34 didn't work!
+17.35 didn't work!
+17.36 didn't work!
+17.37 didn't work!
+17.380000000000003 didn't work!
+17.39 didn't work!
+17.4 didn't work!
+17.41 didn't work!
+17.42 didn't work!
+17.43 didn't work!
+17.439999999999998 didn't work!
+17.450000000000003 didn't work!
+17.46 produced a value error
+17.47 didn't work!
+17.48 didn't work!
+17.490000000000002 didn't work!
+17.5 didn't work!
+17.509999999999998 didn't work!
+17.52 produced a value error
+17.53 didn't work!
+17.54 didn't work!
+17.55 didn't work!
+17.560000000000002 didn't work!
+17.57 didn't work!
+17.58 didn't work!
+17.59 didn't work!
+17.6 didn't work!
+17.61 didn't work!
+17.62 didn't work!
+17.630000000000003 didn't work!
+17.64 didn't work!
+17.65 didn't work!
+17.66 didn't work!
+17.67 produced a value error
+17.68 didn't work!
+17.689999999999998 didn't work!
+17.700000000000003 didn't work!
+17.71 produced a value error
+17.72 didn't work!
+17.73 didn't work!
+17.740000000000002 didn't work!
+17.75 didn't work!
+17.759999999999998 didn't work!
+17.77 didn't work!
+17.78 didn't work!
+17.79 didn't work!
+17.8 didn't work!
+17.810000000000002 didn't work!
+17.82 didn't work!
+17.83 didn't work!
+17.84 didn't work!
+17.85 didn't work!
+17.86 produced a value error
+17.87 didn't work!
+17.880000000000003 produced a value error
+17.89 produced a value error
+17.9 produced a value error
+17.91 didn't work!
+17.92 didn't work!
+17.93 didn't work!
+17.939999999999998 produced a value error
+17.950000000000003 didn't work!
+17.96 didn't work!
+17.97 didn't work!
+17.98 produced a value error
+17.990000000000002 didn't work!
+18.0 didn't work!
+18.009999999999998 produced a value error
+18.02 didn't work!
+18.03 didn't work!
+18.04 didn't work!
+18.05 produced a value error
+18.060000000000002 didn't work!
+18.07 didn't work!
+18.08 didn't work!
+18.09 didn't work!
+18.1 didn't work!
+18.11 didn't work!
+18.12 didn't work!
+18.130000000000003 produced a value error
+18.14 produced a value error
+18.15 didn't work!
+18.16 didn't work!
+18.17 didn't work!
+18.18 produced a value error
+18.189999999999998 produced a value error
+18.200000000000003 didn't work!
+18.21 didn't work!
+18.22 didn't work!
+18.23 didn't work!
+18.240000000000002 produced a value error
+18.25 didn't work!
+18.259999999999998 produced a value error
+18.27 produced a value error
+18.28 produced a value error
+18.29 didn't work!
+18.3 produced a value error
+18.310000000000002 didn't work!
+18.32 didn't work!
+18.33 didn't work!
+18.34 didn't work!
+18.35 produced a value error
+18.36 didn't work!
+18.37 didn't work!
+18.380000000000003 produced a value error
+18.39 didn't work!
+18.4 didn't work!
+18.41 produced a value error
+18.42 didn't work!
+18.43 didn't work!
+18.439999999999998 produced a value error
+18.450000000000003 didn't work!
+18.46 produced a value error
+18.47 produced a value error
+18.48 didn't work!
+18.490000000000002 didn't work!
+18.5 produced a value error
+18.509999999999998 produced a value error
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:1210: ComplexWarning: Casting complex values to real discards the imaginary part
+  allErrCovsEigvalXY[ii]= teig[0][sortIndx]
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:1215: ComplexWarning: Casting complex values to real discards the imaginary part
+  eigDir[jj]= teig[1][:,sortIndx[jj]]
+
+/data/reu/jkittlin/miniconda3/envs/galpyenv/lib/python3.11/site-packages/galpy/df/streamdf.py:1216: ComplexWarning: Casting complex values to real discards the imaginary part
+  allErrCovsEigvecXY[ii]= teig[1][:,sortIndx]
+
+18.52 didn't work!
+18.53 didn't work!
+18.54 didn't work!
+18.55 didn't work!
+18.560000000000002 didn't work!
+18.57 didn't work!
+18.58 produced a value error
+18.59 didn't work!
+18.6 produced a value error
+18.61 produced a value error
+18.62 didn't work!
+18.630000000000003 didn't work!
+18.64 produced a value error
+18.65 didn't work!
+18.66 didn't work!
+18.67 produced a value error
+18.68 didn't work!
+18.689999999999998 didn't work!
+18.700000000000003 didn't work!
+18.71 produced a value error
+18.72 didn't work!
+18.73 didn't work!
+18.740000000000002 didn't work!
+18.75 produced a value error
+18.759999999999998 produced a value error
+18.77 didn't work!
+18.78 didn't work!
+18.79 didn't work!
+18.8 didn't work!
+18.810000000000002 didn't work!
+18.82 didn't work!
+18.83 didn't work!
+18.84 didn't work!
+18.85 didn't work!
+18.86 didn't work!
+18.87 didn't work!
+18.880000000000003 didn't work!
+18.89 didn't work!
+18.9 didn't work!
+18.91 produced a value error
+18.92 didn't work!
+18.93 didn't work!
+18.939999999999998 didn't work!
+18.950000000000003 didn't work!
+18.96 didn't work!
+18.97 didn't work!
+18.98 produced a value error
+18.990000000000002 didn't work!
+19.0 didn't work!
+19.009999999999998 didn't work!
+19.02 didn't work!
+19.03 didn't work!
+19.04 didn't work!
+19.05 didn't work!
+19.060000000000002 produced a value error
+19.07 didn't work!
+19.08 didn't work!
+19.09 produced a value error
+19.1 didn't work!
+19.11 produced a value error
+19.12 didn't work!
+19.130000000000003 didn't work!
+19.14 produced a value error
+19.15 didn't work!
+19.16 didn't work!
+19.17 didn't work!
+19.18 didn't work!
+19.189999999999998 produced a value error
+19.200000000000003 produced a value error
+19.21 produced a value error
+19.22 didn't work!
+19.23 didn't work!
+19.240000000000002 didn't work!
+19.25 produced a value error
+19.259999999999998 didn't work!
+19.27 didn't work!
+19.28 didn't work!
+19.29 didn't work!
+19.3 didn't work!
+19.310000000000002 didn't work!
+19.32 didn't work!
+19.33 didn't work!
+19.34 didn't work!
+19.35 didn't work!
+19.36 didn't work!
+19.37 produced a value error
+19.380000000000003 didn't work!
+19.39 didn't work!
+19.4 didn't work!
+19.41 didn't work!
+19.42 didn't work!
+19.43 didn't work!
+19.439999999999998 didn't work!
+19.450000000000003 produced a value error
+19.46 didn't work!
+19.47 produced a value error
+19.48 didn't work!
+19.490000000000002 didn't work!
+19.5 didn't work!
+19.509999999999998 didn't work!
+19.52 didn't work!
+19.53 didn't work!
+19.54 didn't work!
+19.55 didn't work!
+19.560000000000002 didn't work!
+19.57 didn't work!
+19.58 produced a value error
+19.59 produced a value error
+19.6 didn't work!
+19.61 produced a value error
+19.62 didn't work!
+19.630000000000003 didn't work!
+19.64 didn't work!
+19.65 produced a value error
+19.66 didn't work!
+19.67 didn't work!
+19.68 didn't work!
+19.689999999999998 didn't work!
+19.700000000000003 didn't work!
+19.71 produced a value error
+19.72 didn't work!
+19.73 didn't work!
+19.740000000000002 didn't work!
+19.75 produced a value error
+19.759999999999998 produced a value error
+19.77 didn't work!
+19.78 didn't work!
+19.79 didn't work!
+19.8 produced a value error
+19.810000000000002 produced a value error
+19.82 didn't work!
+19.83 didn't work!
+19.84 didn't work!
+19.85 didn't work!
+19.86 didn't work!
+19.87 didn't work!
+19.880000000000003 produced a value error
+19.89 didn't work!
+19.9 didn't work!
+19.91 didn't work!
+19.92 produced a value error
+19.93 didn't work!
+19.939999999999998 didn't work!
+19.950000000000003 didn't work!
+19.96 didn't work!
+19.97 didn't work!
+19.98 didn't work!
+19.990000000000002 didn't work!
+20.0 didn't work!
+20.009999999999998 didn't work!
+20.02 produced a value error
+20.03 produced a value error
+20.04 didn't work!
+20.05 produced a value error
+20.060000000000002 produced a value error
+20.07 didn't work!
+20.08 produced a value error
+20.09 didn't work!
+20.1 produced a value error
+20.11 didn't work!
+20.12 didn't work!
+20.130000000000003 didn't work!
+20.14 produced a value error
+20.15 didn't work!
+20.16 produced a value error
+20.17 didn't work!
+20.18 didn't work!
+20.189999999999998 didn't work!
+20.200000000000003 didn't work!
+20.21 didn't work!
+20.22 produced a value error
+20.23 produced a value error
+20.240000000000002 didn't work!
+20.25 didn't work!
+20.259999999999998 didn't work!
+20.27 didn't work!
+20.28 didn't work!
+20.29 didn't work!
+20.3 didn't work!
+20.310000000000002 didn't work!
+20.32 didn't work!
+20.33 didn't work!
+20.34 didn't work!
+20.35 didn't work!
+20.36 produced a value error
+20.37 didn't work!
+
+20.380000000000003 didn't work!
+20.39 didn't work!
+20.4 didn't work!
+20.41 didn't work!
+20.42 didn't work!
+20.43 didn't work!
+20.439999999999998 didn't work!
+20.450000000000003 didn't work!
+20.46 didn't work!
+20.47 produced a value error
+20.48 didn't work!
+20.490000000000002 didn't work!
+20.5 didn't work!
+20.509999999999998 produced a value error
+20.52 didn't work!
+20.53 didn't work!
+20.54 didn't work!
+20.55 didn't work!
+20.560000000000002 didn't work!
+20.57 produced a value error
+20.58 produced a value error
+20.59 didn't work!
+20.6 didn't work!
+20.61 didn't work!
+20.62 didn't work!
+20.630000000000003 didn't work!
+20.64 didn't work!
+20.65 didn't work!
+20.66 didn't work!
+20.67 produced a value error
+20.68 didn't work!
+20.689999999999998 didn't work!
+20.700000000000003 didn't work!
+20.71 didn't work!
+20.72 didn't work!
+20.73 didn't work!
+20.740000000000002 didn't work!
+20.75 produced a value error
+20.759999999999998 didn't work!
+20.77 didn't work!
+20.78 didn't work!
+20.79 didn't work!
+20.8 didn't work!
+20.810000000000002 didn't work!
+20.82 didn't work!
+20.83 didn't work!
+20.84 didn't work!
+20.85 didn't work!
+20.86 produced a value error
+20.87 didn't work!
+20.880000000000003 didn't work!
+20.89 didn't work!
+20.9 produced a value error
+20.91 didn't work!
+20.92 didn't work!
+20.93 didn't work!
+20.939999999999998 produced a value error
+20.950000000000003 didn't work!
+20.96 didn't work!
+20.97 produced a value error
+20.98 didn't work!
+20.990000000000002 produced a value error
+21.0 didn't work!
+21.009999999999998 didn't work!
+21.02 produced a value error
+21.03 produced a value error
+21.04 produced a value error
+21.05 produced a value error
+21.060000000000002 didn't work!
+21.07 didn't work!
+21.08 didn't work!
+21.09 didn't work!
+21.1 produced a value error
+21.11 didn't work!
+21.12 didn't work!
+21.130000000000003 produced a value error
+21.14 didn't work!
+21.15 didn't work!
+21.16 didn't work!
+21.17 didn't work!
+21.18 didn't work!
+21.189999999999998 didn't work!
+21.200000000000003 didn't work!
+21.21 didn't work!
+21.22 didn't work!
+21.23 produced a value error
+21.240000000000002 didn't work!
+21.25 produced a value error
+21.259999999999998 produced a value error
+21.27 didn't work!
+21.28 produced a value error
+21.29 didn't work!
+21.3 didn't work!
+21.310000000000002 produced a value error
+21.32 didn't work!
+21.33 didn't work!
+21.34 didn't work!
+21.35 produced a value error
+21.36 didn't work!
+21.37 produced a value error
+21.380000000000003 produced a value error
+21.39 didn't work!
+21.4 didn't work!
+21.41 didn't work!
+21.42 didn't work!
+21.43 didn't work!
+21.439999999999998 didn't work!
+21.450000000000003 didn't work!
+21.46 didn't work!
+21.47 didn't work!
+21.48 didn't work!
+21.490000000000002 didn't work!
+21.5 didn't work!
+21.509999999999998 produced a value error
+21.52 produced a value error
+21.53 produced a value error
+21.54 didn't work!
+21.55 didn't work!
+21.560000000000002 didn't work!
+21.57 didn't work!
+21.58 didn't work!
+21.59 didn't work!
+21.6 didn't work!
+21.61 didn't work!
+21.62 didn't work!
+21.630000000000003 didn't work!
+21.64 produced a value error
+21.65 produced a value error
+21.66 didn't work!
+21.67 didn't work!
+21.68 didn't work!
+21.689999999999998 produced a value error
+21.700000000000003 produced a value error
+21.71 produced a value error
+21.72 didn't work!
+21.73 didn't work!
+21.740000000000002 produced a value error
+21.75 didn't work!
+21.759999999999998 didn't work!
+21.77 didn't work!
+21.78 didn't work!
+21.79 produced a value error
+21.8 produced a value error
+21.810000000000002 produced a value error
+21.82 produced a value error
+21.83 produced a value error
+21.84 didn't work!
+21.85 didn't work!
+21.86 didn't work!
+21.87 produced a value error
+21.880000000000003 didn't work!
+21.89 didn't work!
+21.9 didn't work!
+21.91 produced a value error
+21.92 didn't work!
+21.93 didn't work!
+21.939999999999998 didn't work!
+21.950000000000003 didn't work!
+21.96 didn't work!
+21.97 didn't work!
+21.98 didn't work!
+No nans/infs reported. 21.990000000000002 works!
+22.0 didn't work!
+22.009999999999998 didn't work!
+22.02 didn't work!
+22.03 didn't work!
+22.04 didn't work!
+22.05 didn't work!
+22.060000000000002 produced a value error
+22.07 didn't work!
+22.08 didn't work!
+22.09 didn't work!
+22.1 didn't work!
+22.11 didn't work!
+22.12 didn't work!
+22.130000000000003 didn't work!
+22.14 didn't work!
+22.15 didn't work!
+22.16 produced a value error
+22.17 didn't work!
+22.18 didn't work!
+22.189999999999998 didn't work!
+22.200000000000003 didn't work!
+22.21 produced a value error
+22.22 didn't work!
+22.23 didn't work!
+22.240000000000002 didn't work!
+22.25 didn't work!
+22.259999999999998 didn't work!
+22.27 didn't work!
+22.28 didn't work!
+22.29 didn't work!
+22.3 produced a value error
+22.310000000000002 didn't work!
+22.32 didn't work!
+22.33 didn't work!
+22.34 didn't work!
+22.35 didn't work!
+22.36 didn't work!
+22.37 didn't work!
+22.380000000000003 produced a value error
+22.39 didn't work!
+22.4 didn't work!
+22.41 didn't work!
+22.42 didn't work!
+22.43 didn't work!
+22.439999999999998 didn't work!
+22.450000000000003 didn't work!
+22.46 didn't work!
+22.47 didn't work!
+22.48 produced a value error
+22.490000000000002 produced a value error
+22.5 didn't work!
+22.509999999999998 didn't work!
+22.52 didn't work!
+22.53 produced a value error
+22.54 didn't work!
+22.55 didn't work!
+22.560000000000002 didn't work!
+22.57 didn't work!
+22.58 didn't work!
+22.59 produced a value error
+22.6 produced a value error
+22.61 didn't work!
+22.62 didn't work!
+22.630000000000003 didn't work!
+22.64 didn't work!
+22.65 didn't work!
+22.66 didn't work!
+22.67 produced a value error
+22.68 produced a value error
+22.689999999999998 didn't work!
+22.700000000000003 didn't work!
+22.71 didn't work!
+22.72 didn't work!
+22.73 didn't work!
+22.740000000000002 didn't work!
+22.75 didn't work!
+22.759999999999998 didn't work!
+22.77 didn't work!
+22.78 didn't work!
+22.79 produced a value error
+22.8 didn't work!
+22.810000000000002 didn't work!
+22.82 produced a value error
+22.83 produced a value error
+22.84 produced a value error
+22.85 didn't work!
+22.86 didn't work!
+22.87 didn't work!
+22.880000000000003 didn't work!
+22.89 produced a value error
+22.9 produced a value error
+22.91 didn't work!
+22.92 didn't work!
+22.93 didn't work!
+22.939999999999998 didn't work!
+22.950000000000003 didn't work!
+22.96 didn't work!
+22.97 produced a value error
+22.98 didn't work!
+22.990000000000002 didn't work!
+23.0 didn't work!
+23.01 didn't work!
+23.02 produced a value error
+23.03 didn't work!
+23.04 didn't work!
+23.05 didn't work!
+23.06 didn't work!
+23.07 produced a value error
+23.080000000000002 produced a value error
+23.09 didn't work!
+23.1 didn't work!
+23.11 didn't work!
+23.12 produced a value error
+23.13 didn't work!
+23.14 didn't work!
+23.15 didn't work!
+23.16 didn't work!
+23.17 didn't work!
+23.18 didn't work!
+23.19 didn't work!
+23.2 didn't work!
+23.21 didn't work!
+23.22 produced a value error
+23.23 didn't work!
+23.240000000000002 didn't work!
+23.25 didn't work!
+23.26 produced a value error
+23.27 didn't work!
+23.28 didn't work!
+23.29 produced a value error
+23.3 didn't work!
+23.31 didn't work!
+23.32 didn't work!
+23.330000000000002 produced a value error
+23.34 didn't work!
+23.35 didn't work!
+23.36 didn't work!
+23.37 didn't work!
+23.38 didn't work!
+23.39 produced a value error
+23.4 produced a value error
+23.41 produced a value error
+23.42 didn't work!
+23.43 didn't work!
+23.44 didn't work!
+23.45 didn't work!
+23.46 didn't work!
+23.47 didn't work!
+23.48 didn't work!
+23.490000000000002 didn't work!
+23.5 didn't work!
+23.51 didn't work!
+23.52 didn't work!
+23.53 didn't work!
+23.54 produced a value error
+23.55 produced a value error
+23.56 produced a value error
+23.57 produced a value error
+23.580000000000002 didn't work!
+23.59 didn't work!
+23.6 didn't work!
+23.61 didn't work!
+23.62 produced a value error
+23.63 produced a value error
+23.64 produced a value error
+23.65 produced a value error
+23.66 didn't work!
+23.67 didn't work!
+23.68 didn't work!
+23.69 didn't work!
+23.7 produced a value error
+23.71 produced a value error
+23.72 didn't work!
+23.73 produced a value error
+23.740000000000002 didn't work!
+23.75 produced a value error
+23.76 produced a value error
+23.77 produced a value error
+
+23.78 didn't work!
+23.79 didn't work!
+23.8 didn't work!
+23.81 didn't work!
+23.82 didn't work!
+23.830000000000002 didn't work!
+23.84 didn't work!
+23.85 produced a value error
+23.86 didn't work!
+23.87 didn't work!
+23.88 didn't work!
+23.89 didn't work!
+23.9 didn't work!
+23.91 produced a value error
+23.92 didn't work!
+23.93 didn't work!
+23.94 didn't work!
+23.95 didn't work!
+23.96 didn't work!
+23.97 didn't work!
+23.98 didn't work!
+23.990000000000002 produced a value error
+24.0 produced a value error
+24.01 didn't work!
+24.02 didn't work!
+24.03 produced a value error
+24.04 produced a value error
+24.05 didn't work!
+24.06 didn't work!
+24.07 didn't work!
+24.080000000000002 didn't work!
+24.09 didn't work!
+24.1 didn't work!
+24.11 didn't work!
+24.12 didn't work!
+24.13 didn't work!
+24.14 didn't work!
+24.150000000000002 didn't work!
+24.16 didn't work!
+24.17 produced a value error
+24.18 didn't work!
+24.19 didn't work!
+24.2 didn't work!
+24.21 produced a value error
+24.22 didn't work!
+24.23 produced a value error
+24.240000000000002 didn't work!
+24.25 didn't work!
+24.26 didn't work!
+24.27 didn't work!
+24.28 didn't work!
+24.29 produced a value error
+24.3 didn't work!
+24.31 didn't work!
+24.32 didn't work!
+24.330000000000002 didn't work!
+24.34 didn't work!
+24.35 didn't work!
+24.36 didn't work!
+24.37 didn't work!
+24.38 didn't work!
+24.39 didn't work!
+24.400000000000002 didn't work!
+24.41 produced a value error
+24.42 didn't work!
+24.43 didn't work!
+24.44 didn't work!
+24.45 didn't work!
+24.46 didn't work!
+24.47 didn't work!
+24.48 didn't work!
+24.490000000000002 didn't work!
+24.5 produced a value error
+24.51 produced a value error
+24.52 didn't work!
+24.53 didn't work!
+24.54 didn't work!
+24.55 didn't work!
+24.56 produced a value error
+24.57 produced a value error
+24.580000000000002 didn't work!
+24.59 didn't work!
+24.6 produced a value error
+24.61 produced a value error
+24.62 produced a value error
+24.63 produced a value error
+24.64 didn't work!
+24.650000000000002 didn't work!
+24.66 produced a value error
+24.67 didn't work!
+24.68 produced a value error
+24.69 didn't work!
+24.7 didn't work!
+24.71 didn't work!
+24.72 didn't work!
+24.73 produced a value error
+24.740000000000002 produced a value error
+24.75 didn't work!
+24.76 didn't work!
+24.77 didn't work!
+24.78 didn't work!
+24.79 didn't work!
+24.8 didn't work!
+24.81 produced a value error
+24.82 didn't work!
+24.830000000000002 produced a value error
+24.84 didn't work!
+24.85 didn't work!
+24.86 produced a value error
+24.87 didn't work!
+24.88 produced a value error
+24.89 produced a value error
+24.900000000000002 didn't work!
+24.91 didn't work!
+24.92 produced a value error
+24.93 produced a value error
+24.94 didn't work!
+24.95 produced a value error
+24.96 didn't work!
+24.97 didn't work!
+24.98 produced a value error
+24.990000000000002 produced a value error
+25.0 produced a value error
+25.01 produced a value error
+25.02 produced a value error
+25.03 didn't work!
+25.04 didn't work!
+25.05 didn't work!
+25.06 produced a value error
+25.07 didn't work!
+25.080000000000002 didn't work!
+25.09 didn't work!
+25.1 didn't work!
+25.11 didn't work!
+25.12 produced a value error
+25.13 didn't work!
+25.14 didn't work!
+25.150000000000002 produced a value error
+25.16 didn't work!
+25.17 didn't work!
+25.18 produced a value error
+25.19 didn't work!
+25.2 didn't work!
+25.21 didn't work!
+25.22 didn't work!
+25.23 produced a value error
+25.240000000000002 produced a value error
+25.25 didn't work!
+25.26 didn't work!
+25.27 didn't work!
+25.28 didn't work!
+25.29 didn't work!
+25.3 didn't work!
+25.31 produced a value error
+25.32 didn't work!
+25.330000000000002 produced a value error
+25.34 didn't work!
+25.35 didn't work!
+25.36 didn't work!
+25.37 produced a value error
+25.38 produced a value error
+25.39 didn't work!
+25.400000000000002 didn't work!
+25.41 didn't work!
+25.42 produced a value error
+25.43 didn't work!
+25.44 didn't work!
+25.45 didn't work!
+25.46 didn't work!
+25.47 didn't work!
+25.48 didn't work!
+25.490000000000002 didn't work!
+25.5 didn't work!
+25.51 didn't work!
+25.52 produced a value error
+25.53 produced a value error
+25.54 didn't work!
+25.55 produced a value error
+25.56 didn't work!
+25.57 didn't work!
+25.580000000000002 didn't work!
+25.59 didn't work!
+25.6 produced a value error
+25.61 didn't work!
+25.62 produced a value error
+25.63 didn't work!
+25.64 didn't work!
+25.650000000000002 didn't work!
+25.66 didn't work!
+25.67 produced a value error
+25.68 didn't work!
+25.69 didn't work!
+25.7 didn't work!
+25.71 didn't work!
+25.72 didn't work!
+25.73 produced a value error
+25.740000000000002 didn't work!
+25.75 didn't work!
+25.76 didn't work!
+25.77 didn't work!
+25.78 didn't work!
+25.79 didn't work!
+25.8 produced a value error
+25.81 didn't work!
+25.82 didn't work!
+25.830000000000002 produced a value error
+25.84 didn't work!
+25.85 didn't work!
+25.86 didn't work!
+25.87 produced a value error
+25.88 didn't work!
+25.89 didn't work!
+25.900000000000002 didn't work!
+25.91 didn't work!
+25.92 produced a value error
+25.93 didn't work!
+25.94 didn't work!
+25.95 produced a value error
+25.96 didn't work!
+25.97 produced a value error
+25.98 produced a value error
+25.990000000000002 didn't work!
+26.0 didn't work!
+26.01 didn't work!
+26.02 produced a value error
+26.03 didn't work!
+26.04 didn't work!
+26.05 produced a value error
+26.06 didn't work!
+26.07 produced a value error
+26.080000000000002 produced a value error
+26.09 produced a value error
+26.1 didn't work!
+26.11 produced a value error
+26.12 didn't work!
+26.13 didn't work!
+26.14 didn't work!
+26.150000000000002 didn't work!
+26.16 produced a value error
+26.17 didn't work!
+26.18 didn't work!
+26.19 didn't work!
+26.2 didn't work!
+26.21 didn't work!
+26.22 didn't work!
+26.23 produced a value error
+26.240000000000002 didn't work!
+26.25 didn't work!
+26.26 didn't work!
+26.27 produced a value error
+26.28 produced a value error
+26.29 didn't work!
+26.3 produced a value error
+26.31 didn't work!
+26.32 didn't work!
+26.330000000000002 didn't work!
+26.34 didn't work!
+26.35 produced a value error
+26.36 didn't work!
+26.37 didn't work!
+26.38 didn't work!
+26.39 produced a value error
+26.400000000000002 didn't work!
+26.41 didn't work!
+26.42 didn't work!
+26.43 produced a value error
+26.44 produced a value error
+26.45 didn't work!
+26.46 didn't work!
+26.47 didn't work!
+26.48 produced a value error
+26.490000000000002 didn't work!
+26.5 produced a value error
+26.51 produced a value error
+26.52 didn't work!
+26.53 didn't work!
+26.54 didn't work!
+26.55 didn't work!
+26.56 didn't work!
+26.57 didn't work!
+26.580000000000002 produced a value error
+26.59 didn't work!
+26.6 didn't work!
+26.61 produced a value error
+26.62 didn't work!
+26.63 didn't work!
+26.64 didn't work!
+26.650000000000002 produced a value error
+26.66 didn't work!
+26.67 didn't work!
+26.68 didn't work!
+26.69 produced a value error
+26.7 didn't work!
+26.71 didn't work!
+26.72 produced a value error
+26.73 didn't work!
+26.740000000000002 didn't work!
+26.75 didn't work!
+26.76 produced a value error
+26.77 produced a value error
+26.78 didn't work!
+26.79 didn't work!
+26.8 produced a value error
+26.81 didn't work!
+26.82 produced a value error
+26.830000000000002 didn't work!
+26.84 didn't work!
+26.85 didn't work!
+26.86 produced a value error
+26.87 didn't work!
+26.88 produced a value error
+26.89 didn't work!
+26.900000000000002 didn't work!
+26.91 didn't work!
+26.92 didn't work!
+26.93 didn't work!
+26.94 didn't work!
+26.95 didn't work!
+26.96 didn't work!
+26.97 didn't work!
+26.98 didn't work!
+26.990000000000002 didn't work!
+27.0 didn't work!
+27.01 didn't work!
+27.02 didn't work!
+27.03 didn't work!
+27.04 produced a value error
+27.05 didn't work!
+27.06 produced a value error
+27.07 didn't work!
+27.080000000000002 didn't work!
+27.09 didn't work!
+27.1 produced a value error
+27.11 produced a value error
+27.12 produced a value error
+27.13 produced a value error
+27.14 produced a value error
+27.150000000000002 produced a value error
+27.16 didn't work!
+27.17 produced a value error
+27.18 didn't work!
+27.19 didn't work!
+27.2 didn't work!
+27.21 didn't work!
+27.22 didn't work!
+27.23 didn't work!
+27.240000000000002 didn't work!
+27.25 didn't work!
+27.26 didn't work!
+27.27 didn't work!
+27.28 didn't work!
+27.29 didn't work!
+27.3 didn't work!
+
+27.31 didn't work!
+27.32 produced a value error
+27.330000000000002 produced a value error
+27.34 didn't work!
+27.35 didn't work!
+27.36 didn't work!
+27.37 didn't work!
+27.38 didn't work!
+27.39 didn't work!
+27.400000000000002 didn't work!
+27.41 produced a value error
+27.42 produced a value error
+27.43 didn't work!
+27.44 didn't work!
+27.45 didn't work!
+27.46 didn't work!
+27.47 produced a value error
+27.48 didn't work!
+27.490000000000002 didn't work!
+27.5 produced a value error
+27.51 didn't work!
+27.52 didn't work!
+27.53 didn't work!
+27.54 didn't work!
+27.55 didn't work!
+27.56 didn't work!
+27.57 didn't work!
+27.580000000000002 didn't work!
+27.59 didn't work!
+27.6 didn't work!
+27.61 produced a value error
+27.62 didn't work!
+27.63 produced a value error
+27.64 produced a value error
+27.650000000000002 produced a value error
+27.66 didn't work!
+27.67 didn't work!
+27.68 didn't work!
+27.69 didn't work!
+27.7 didn't work!
+27.71 didn't work!
+27.72 didn't work!
+27.73 didn't work!
+27.740000000000002 didn't work!
+27.75 didn't work!
+27.76 didn't work!
+27.77 didn't work!
+27.78 produced a value error
+27.79 didn't work!
+27.8 produced a value error
+27.81 produced a value error
+27.82 didn't work!
+27.830000000000002 produced a value error
+27.84 didn't work!
+27.85 produced a value error
+27.86 produced a value error
+27.87 produced a value error
+27.88 didn't work!
+27.89 didn't work!
+27.900000000000002 didn't work!
+27.91 produced a value error
+27.92 didn't work!
+27.93 didn't work!
+27.94 produced a value error
+27.95 produced a value error
+27.96 didn't work!
+27.97 didn't work!
+27.98 didn't work!
+27.990000000000002 didn't work!
+28.0 produced a value error
+28.01 didn't work!
+28.02 produced a value error
+28.03 didn't work!
+28.04 didn't work!
+28.05 didn't work!
+28.06 didn't work!
+28.07 didn't work!
+28.080000000000002 didn't work!
+28.09 didn't work!
+28.1 produced a value error
+28.11 didn't work!
+28.12 didn't work!
+28.13 didn't work!
+28.14 didn't work!
+28.150000000000002 didn't work!
+28.16 didn't work!
+28.17 didn't work!
+28.18 didn't work!
+28.19 produced a value error
+28.2 didn't work!
+28.21 didn't work!
+28.22 produced a value error
+28.23 didn't work!
+28.240000000000002 didn't work!
+28.25 produced a value error
+28.26 produced a value error
+28.27 didn't work!
+28.28 didn't work!
+28.29 didn't work!
+28.3 produced a value error
+28.31 didn't work!
+28.32 didn't work!
+28.330000000000002 didn't work!
+28.34 didn't work!
+28.35 didn't work!
+28.36 didn't work!
+28.37 produced a value error
+28.38 didn't work!
+28.39 produced a value error
+28.400000000000002 didn't work!
+28.41 didn't work!
+28.42 didn't work!
+28.43 didn't work!
+28.44 didn't work!
+28.45 didn't work!
+28.46 didn't work!
+28.47 produced a value error
+28.48 produced a value error
+28.490000000000002 didn't work!
+28.5 produced a value error
+28.51 didn't work!
+28.52 didn't work!
+28.53 didn't work!
+28.54 didn't work!
+28.55 produced a value error
+28.56 produced a value error
+28.57 didn't work!
+28.580000000000002 produced a value error
+28.59 produced a value error
+28.6 didn't work!
+28.61 didn't work!
+28.62 produced a value error
+28.63 didn't work!
+28.64 didn't work!
+28.650000000000002 produced a value error
+28.66 didn't work!
+28.67 didn't work!
+28.68 didn't work!
+28.69 didn't work!
+28.7 produced a value error
+28.71 produced a value error
+28.72 didn't work!
+28.73 produced a value error
+28.740000000000002 produced a value error
+28.75 didn't work!
+28.76 didn't work!
+28.77 didn't work!
+28.78 didn't work!
+28.79 produced a value error
+28.8 didn't work!
+28.81 didn't work!
+28.82 produced a value error
+28.830000000000002 didn't work!
+28.84 didn't work!
+28.85 didn't work!
+28.86 produced a value error
+28.87 didn't work!
+28.88 produced a value error
+28.89 produced a value error
+28.900000000000002 didn't work!
+28.91 produced a value error
+28.92 didn't work!
+28.93 didn't work!
+28.94 didn't work!
+28.95 didn't work!
+28.96 produced a value error
+28.97 produced a value error
+28.98 didn't work!
+28.990000000000002 produced a value error
+29.0 produced a value error
+29.01 didn't work!
+29.02 didn't work!
+29.03 didn't work!
+29.04 didn't work!
+29.05 didn't work!
+29.06 didn't work!
+29.07 didn't work!
+29.080000000000002 didn't work!
+29.09 didn't work!
+29.1 didn't work!
+29.11 didn't work!
+29.12 didn't work!
+29.13 produced a value error
+29.14 produced a value error
+29.150000000000002 produced a value error
+29.16 produced a value error
+29.17 didn't work!
+29.18 didn't work!
+29.19 didn't work!
+29.2 didn't work!
+29.21 produced a value error
+29.22 didn't work!
+29.23 produced a value error
+29.240000000000002 didn't work!
+29.25 didn't work!
+29.26 didn't work!
+29.27 didn't work!
+29.28 didn't work!
+29.29 didn't work!
+29.3 produced a value error
+29.31 didn't work!
+29.32 produced a value error
+29.330000000000002 didn't work!
+29.34 didn't work!
+29.35 didn't work!
+29.36 didn't work!
+29.37 produced a value error
+29.38 produced a value error
+29.39 produced a value error
+29.400000000000002 didn't work!
+29.41 didn't work!
+29.42 didn't work!
+29.43 didn't work!
+29.44 didn't work!
+29.45 produced a value error
+29.46 produced a value error
+29.47 didn't work!
+29.48 didn't work!
+29.490000000000002 produced a value error
+29.5 produced a value error
+29.51 didn't work!
+29.52 didn't work!
+29.53 produced a value error
+29.54 didn't work!
+29.55 didn't work!
+29.56 didn't work!
+29.57 produced a value error
+29.580000000000002 didn't work!
+29.59 didn't work!
+29.6 didn't work!
+29.61 didn't work!
+29.62 didn't work!
+29.63 produced a value error
+29.64 produced a value error
+29.650000000000002 didn't work!
+29.66 didn't work!
+29.67 produced a value error
+29.68 produced a value error
+29.69 didn't work!
+29.7 didn't work!
+29.71 didn't work!
+29.72 produced a value error
+29.73 didn't work!
+29.740000000000002 produced a value error
+29.75 didn't work!
+29.76 didn't work!
+29.77 didn't work!
+29.78 produced a value error
+29.79 produced a value error
+29.8 produced a value error
+29.81 didn't work!
+29.82 didn't work!
+29.830000000000002 didn't work!
+29.84 didn't work!
+29.85 didn't work!
+29.86 didn't work!
+29.87 didn't work!
+29.88 didn't work!
+29.89 didn't work!
+29.900000000000002 didn't work!
+29.91 produced a value error
+29.92 didn't work!
+29.93 didn't work!
+29.94 didn't work!
+29.95 didn't work!
+29.96 didn't work!
+29.97 produced a value error
+29.98 didn't work!
+29.990000000000002 didn't work!
+30.0 produced a value error
+30.01 didn't work!
+30.02 produced a value error
+30.03 produced a value error
+30.04 produced a value error
+30.05 produced a value error
+30.06 didn't work!
+30.07 didn't work!
+30.080000000000002 produced a value error
+30.09 produced a value error
+30.1 didn't work!
+30.11 produced a value error
+30.12 didn't work!
+30.13 didn't work!
+30.14 didn't work!
+30.150000000000002 didn't work!
+30.16 didn't work!
+30.17 didn't work!
+30.18 didn't work!
+30.19 didn't work!
+30.2 didn't work!
+30.21 didn't work!
+30.22 didn't work!
+30.23 didn't work!
+30.240000000000002 didn't work!
+30.25 didn't work!
+30.26 didn't work!
+30.27 didn't work!
+30.28 didn't work!
+30.29 didn't work!
+30.3 produced a value error
+30.31 produced a value error
+30.32 produced a value error
+30.330000000000002 didn't work!
+30.34 didn't work!
+30.35 produced a value error
+30.36 didn't work!
+30.37 produced a value error
+30.38 didn't work!
+30.39 produced a value error
+30.400000000000002 produced a value error
+30.41 didn't work!
+30.42 didn't work!
+30.43 produced a value error
+30.44 didn't work!
+30.45 produced a value error
+30.46 didn't work!
+30.47 didn't work!
+30.48 produced a value error
+30.490000000000002 didn't work!
+30.5 produced a value error
+30.51 didn't work!
+30.52 produced a value error
+30.53 didn't work!
+30.54 didn't work!
+30.55 didn't work!
+30.56 didn't work!
+30.57 didn't work!
+30.580000000000002 didn't work!
+30.59 didn't work!
+30.6 didn't work!
+30.61 produced a value error
+30.62 didn't work!
+30.63 didn't work!
+30.64 didn't work!
+30.650000000000002 didn't work!
+30.66 didn't work!
+30.67 didn't work!
+30.68 didn't work!
+30.69 didn't work!
+30.7 didn't work!
+30.71 didn't work!
+30.72 didn't work!
+30.73 didn't work!
+30.740000000000002 produced a value error
+30.75 didn't work!
+30.76 produced a value error
+30.77 produced a value error
+30.78 didn't work!
+30.79 produced a value error
+
+30.8 didn't work!
+30.81 produced a value error
+30.82 didn't work!
+30.830000000000002 didn't work!
+30.84 produced a value error
+30.85 produced a value error
+30.86 didn't work!
+30.87 didn't work!
+30.88 produced a value error
+30.89 didn't work!
+30.900000000000002 didn't work!
+30.91 didn't work!
+30.92 didn't work!
+30.93 didn't work!
+30.94 didn't work!
+30.95 didn't work!
+30.96 didn't work!
+30.97 didn't work!
+30.98 produced a value error
+30.990000000000002 produced a value error
+31.0 didn't work!
+31.01 didn't work!
+31.02 produced a value error
+31.03 didn't work!
+31.04 didn't work!
+31.05 didn't work!
+31.060000000000002 didn't work!
+31.07 didn't work!
+31.080000000000002 didn't work!
+31.09 didn't work!
+31.1 didn't work!
+31.11 didn't work!
+31.12 produced a value error
+31.13 produced a value error
+31.14 didn't work!
+31.150000000000002 produced a value error
+31.16 didn't work!
+31.17 didn't work!
+31.18 didn't work!
+31.19 didn't work!
+31.2 didn't work!
+31.21 didn't work!
+31.22 didn't work!
+31.23 produced a value error
+31.240000000000002 didn't work!
+31.25 produced a value error
+31.26 produced a value error
+31.27 produced a value error
+31.28 produced a value error
+31.29 didn't work!
+31.3 produced a value error
+31.310000000000002 didn't work!
+31.32 didn't work!
+31.330000000000002 didn't work!
+31.34 didn't work!
+31.35 didn't work!
+31.36 didn't work!
+31.37 produced a value error
+31.38 produced a value error
+31.39 didn't work!
+31.400000000000002 didn't work!
+31.41 didn't work!
+31.42 didn't work!
+31.43 didn't work!
+31.44 didn't work!
+31.45 produced a value error
+31.46 didn't work!
+31.47 produced a value error
+31.48 didn't work!
+31.490000000000002 produced a value error
+31.5 produced a value error
+31.51 didn't work!
+31.52 produced a value error
+31.53 didn't work!
+31.54 didn't work!
+31.55 didn't work!
+31.560000000000002 didn't work!
+31.57 produced a value error
+31.580000000000002 produced a value error
+31.59 didn't work!
+31.6 didn't work!
+31.61 produced a value error
+31.62 produced a value error
+31.63 didn't work!
+31.64 didn't work!
+31.650000000000002 didn't work!
+31.66 didn't work!
+31.67 produced a value error
+31.68 produced a value error
+31.69 didn't work!
+31.7 didn't work!
+31.71 didn't work!
+31.72 didn't work!
+31.73 produced a value error
+31.740000000000002 didn't work!
+31.75 didn't work!
+31.76 didn't work!
+31.77 didn't work!
+31.78 produced a value error
+31.79 didn't work!
+31.8 produced a value error
+31.810000000000002 didn't work!
+31.82 didn't work!
+31.830000000000002 didn't work!
+31.84 produced a value error
+31.85 didn't work!
+31.86 produced a value error
+31.87 produced a value error
+31.88 produced a value error
+31.89 didn't work!
+31.900000000000002 didn't work!
+31.91 didn't work!
+31.92 didn't work!
+31.93 didn't work!
+31.94 produced a value error
+31.95 didn't work!
+31.96 didn't work!
+31.97 produced a value error
+31.98 didn't work!
+31.990000000000002 produced a value error
+32.0 produced a value error
+32.010000000000005 didn't work!
+32.019999999999996 didn't work!
+32.03 didn't work!
+32.04 didn't work!
+32.05 produced a value error
+32.06 didn't work!
+32.07 didn't work!
+32.08 produced a value error
+32.09 didn't work!
+32.1 didn't work!
+32.11 didn't work!
+32.120000000000005 didn't work!
+32.129999999999995 produced a value error
+32.14 produced a value error
+32.150000000000006 produced a value error
+32.16 didn't work!
+32.17 didn't work!
+32.18 didn't work!
+32.19 produced a value error
+32.2 didn't work!
+32.21 didn't work!
+32.22 produced a value error
+32.230000000000004 produced a value error
+32.24 didn't work!
+32.25 didn't work!
+32.260000000000005 didn't work!
+32.269999999999996 didn't work!
+32.28 didn't work!
+32.29 didn't work!
+32.3 didn't work!
+32.31 produced a value error
+32.32 didn't work!
+32.33 didn't work!
+32.34 produced a value error
+32.35 didn't work!
+32.36 didn't work!
+32.370000000000005 produced a value error
+32.379999999999995 didn't work!
+32.39 didn't work!
+32.400000000000006 produced a value error
+32.41 didn't work!
+32.42 didn't work!
+32.43 produced a value error
+32.44 produced a value error
+32.45 didn't work!
+32.46 didn't work!
+32.47 produced a value error
+32.480000000000004 didn't work!
+32.49 produced a value error
+32.5 didn't work!
+32.510000000000005 produced a value error
+32.519999999999996 didn't work!
+32.53 didn't work!
+32.54 didn't work!
+32.55 produced a value error
+32.56 produced a value error
+32.57 produced a value error
+32.58 produced a value error
+32.59 didn't work!
+32.6 didn't work!
+32.61 didn't work!
+32.620000000000005 produced a value error
+32.629999999999995 didn't work!
+32.64 didn't work!
+32.650000000000006 produced a value error
+32.66 didn't work!
+32.67 produced a value error
+32.68 didn't work!
+32.69 didn't work!
+32.7 didn't work!
+32.71 produced a value error
+32.72 produced a value error
+32.730000000000004 didn't work!
+32.74 didn't work!
+32.75 didn't work!
+32.760000000000005 didn't work!
+32.769999999999996 didn't work!
+32.78 didn't work!
+32.79 produced a value error
+32.8 produced a value error
+32.81 didn't work!
+32.82 didn't work!
+32.83 didn't work!
+32.84 didn't work!
+32.85 didn't work!
+32.86 produced a value error
+32.870000000000005 produced a value error
+32.879999999999995 didn't work!
+32.89 didn't work!
+32.900000000000006 didn't work!
+32.91 didn't work!
+32.92 produced a value error
+32.93 didn't work!
+32.94 didn't work!
+32.95 didn't work!
+32.96 didn't work!
+32.97 didn't work!
+32.980000000000004 didn't work!
+32.99 produced a value error
+33.0 didn't work!
+33.010000000000005 didn't work!
+33.019999999999996 didn't work!
+33.03 didn't work!
+33.04 didn't work!
+33.05 didn't work!
+33.06 didn't work!
+33.07 produced a value error
+33.08 didn't work!
+33.09 produced a value error
+33.1 didn't work!
+33.11 didn't work!
+33.120000000000005 produced a value error
+33.129999999999995 didn't work!
+33.14 didn't work!
+33.150000000000006 produced a value error
+33.16 didn't work!
+33.17 didn't work!
+33.18 didn't work!
+33.19 produced a value error
+33.2 produced a value error
+33.21 didn't work!
+33.22 didn't work!
+33.230000000000004 didn't work!
+33.24 didn't work!
+33.25 didn't work!
+33.260000000000005 produced a value error
+33.269999999999996 produced a value error
+33.28 didn't work!
+33.29 produced a value error
+33.3 produced a value error
+33.31 didn't work!
+33.32 didn't work!
+33.33 didn't work!
+33.34 didn't work!
+33.35 didn't work!
+33.36 produced a value error
+33.370000000000005 didn't work!
+33.379999999999995 didn't work!
+33.39 didn't work!
+33.400000000000006 didn't work!
+33.41 produced a value error
+33.42 produced a value error
+33.43 didn't work!
+33.44 didn't work!
+33.45 produced a value error
+33.46 produced a value error
+33.47 didn't work!
+33.480000000000004 produced a value error
+33.49 didn't work!
+33.5 didn't work!
+33.510000000000005 produced a value error
+33.519999999999996 produced a value error
+33.53 produced a value error
+33.54 didn't work!
+33.55 didn't work!
+33.56 didn't work!
+33.57 didn't work!
+33.58 produced a value error
+33.59 didn't work!
+33.6 didn't work!
+33.61 didn't work!
+33.620000000000005 didn't work!
+33.629999999999995 produced a value error
+33.64 didn't work!
+33.650000000000006 didn't work!
+33.66 didn't work!
+33.67 didn't work!
+33.68 didn't work!
+33.69 didn't work!
+33.7 didn't work!
+33.71 produced a value error
+33.72 didn't work!
+33.730000000000004 didn't work!
+33.74 didn't work!
+33.75 didn't work!
+33.760000000000005 didn't work!
+33.769999999999996 produced a value error
+33.78 didn't work!
+33.79 didn't work!
+33.8 didn't work!
+33.81 didn't work!
+33.82 produced a value error
+33.83 didn't work!
+33.84 didn't work!
+33.85 didn't work!
+33.86 didn't work!
+33.870000000000005 didn't work!
+33.879999999999995 didn't work!
+33.89 didn't work!
+33.900000000000006 produced a value error
+33.91 didn't work!
+33.92 produced a value error
+33.93 produced a value error
+33.94 produced a value error
+33.95 produced a value error
+33.96 didn't work!
+33.97 didn't work!
+33.980000000000004 didn't work!
+33.99 didn't work!
+34.0 produced a value error
+34.010000000000005 didn't work!
+34.019999999999996 didn't work!
+34.03 produced a value error
+34.04 produced a value error
+34.05 didn't work!
+34.06 produced a value error
+34.07 didn't work!
+34.08 didn't work!
+34.09 produced a value error
+
+34.1 didn't work!
+34.11 produced a value error
+34.120000000000005 didn't work!
+34.129999999999995 produced a value error
+34.14 produced a value error
+34.150000000000006 didn't work!
+34.16 produced a value error
+34.17 produced a value error
+34.18 didn't work!
+34.19 didn't work!
+34.2 didn't work!
+34.21 didn't work!
+34.22 produced a value error
+34.230000000000004 produced a value error
+34.24 produced a value error
+34.25 produced a value error
+34.260000000000005 produced a value error
+34.269999999999996 didn't work!
+34.28 didn't work!
+34.29 didn't work!
+34.3 produced a value error
+34.31 didn't work!
+34.32 produced a value error
+34.33 didn't work!
+34.34 produced a value error
+34.35 didn't work!
+34.36 didn't work!
+34.370000000000005 produced a value error
+34.379999999999995 didn't work!
+34.39 didn't work!
+34.400000000000006 didn't work!
+34.41 didn't work!
+34.42 didn't work!
+34.43 produced a value error
+34.44 produced a value error
+34.45 didn't work!
+34.46 produced a value error
+34.47 didn't work!
+34.480000000000004 didn't work!
+34.49 produced a value error
+34.5 didn't work!
+34.510000000000005 didn't work!
+34.519999999999996 produced a value error
+34.53 produced a value error
+34.54 didn't work!
+34.55 produced a value error
+34.56 produced a value error
+34.57 didn't work!
+34.58 produced a value error
+34.59 produced a value error
+34.6 didn't work!
+34.61 didn't work!
+34.620000000000005 produced a value error
+34.629999999999995 didn't work!
+34.64 didn't work!
+34.650000000000006 didn't work!
+34.66 didn't work!
+34.67 didn't work!
+34.68 produced a value error
+34.69 didn't work!
+34.7 didn't work!
+34.71 didn't work!
+34.72 didn't work!
+34.730000000000004 didn't work!
+34.74 didn't work!
+34.75 didn't work!
+34.760000000000005 produced a value error
+34.769999999999996 didn't work!
+34.78 produced a value error
+34.79 didn't work!
+34.8 didn't work!
+34.81 didn't work!
+34.82 produced a value error
+34.83 didn't work!
+34.84 didn't work!
+34.85 didn't work!
+34.86 didn't work!
+34.870000000000005 didn't work!
+34.879999999999995 produced a value error
+34.89 didn't work!
+34.900000000000006 produced a value error
+34.91 produced a value error
+34.92 didn't work!
+34.93 didn't work!
+34.94 didn't work!
+34.95 didn't work!
+34.96 didn't work!
+34.97 produced a value error
+34.980000000000004 produced a value error
+34.99 didn't work!
+35.0 didn't work!
+35.010000000000005 produced a value error
+35.019999999999996 produced a value error
+35.03 didn't work!
+35.04 didn't work!
+35.05 didn't work!
+35.06 didn't work!
+35.07 produced a value error
+35.08 didn't work!
+35.09 didn't work!
+35.1 didn't work!
+35.11 didn't work!
+35.120000000000005 didn't work!
+35.129999999999995 produced a value error
+35.14 produced a value error
+35.150000000000006 produced a value error
+35.16 produced a value error
+35.17 didn't work!
+35.18 didn't work!
+35.19 didn't work!
+35.2 didn't work!
+35.21 produced a value error
+35.22 didn't work!
+35.230000000000004 produced a value error
+35.24 didn't work!
+35.25 didn't work!
+35.260000000000005 didn't work!
+35.269999999999996 didn't work!
+35.28 produced a value error
+35.29 didn't work!
+35.3 didn't work!
+35.31 produced a value error
+35.32 didn't work!
+35.33 didn't work!
+35.34 didn't work!
+35.35 didn't work!
+35.36 didn't work!
+35.370000000000005 didn't work!
+35.379999999999995 didn't work!
+35.39 didn't work!
+35.400000000000006 produced a value error
+35.41 didn't work!
+35.42 didn't work!
+35.43 produced a value error
+35.44 didn't work!
+35.45 didn't work!
+35.46 didn't work!
+35.47 didn't work!
+35.480000000000004 didn't work!
+35.49 didn't work!
+35.5 didn't work!
+35.510000000000005 didn't work!
+35.519999999999996 didn't work!
+35.53 didn't work!
+35.54 produced a value error
+35.55 didn't work!
+35.56 didn't work!
+35.57 didn't work!
+35.58 didn't work!
+35.59 didn't work!
+35.6 produced a value error
+35.61 produced a value error
+35.620000000000005 didn't work!
+35.629999999999995 didn't work!
+35.64 produced a value error
+35.650000000000006 produced a value error
+35.66 didn't work!
+35.67 produced a value error
+35.68 didn't work!
+35.69 didn't work!
+35.7 produced a value error
+35.71 produced a value error
+35.72 didn't work!
+35.730000000000004 didn't work!
+35.74 didn't work!
+35.75 didn't work!
+35.760000000000005 didn't work!
+35.769999999999996 produced a value error
+35.78 didn't work!
+35.79 produced a value error
+35.8 didn't work!
+35.81 didn't work!
+35.82 produced a value error
+35.83 didn't work!
+35.84 didn't work!
+35.85 produced a value error
+35.86 didn't work!
+35.870000000000005 produced a value error
+35.879999999999995 didn't work!
+35.89 didn't work!
+35.900000000000006 produced a value error
+35.91 didn't work!
+35.92 didn't work!
+35.93 didn't work!
+35.94 didn't work!
+35.95 didn't work!
+35.96 didn't work!
+35.97 didn't work!
+35.980000000000004 didn't work!
+35.99 produced a value error
+36.0 produced a value error
+36.010000000000005 produced a value error
+36.019999999999996 didn't work!
+36.03 didn't work!
+36.04 didn't work!
+36.05 didn't work!
+36.06 didn't work!
+36.07 didn't work!
+36.08 didn't work!
+36.09 didn't work!
+36.1 didn't work!
+36.11 produced a value error
+36.120000000000005 didn't work!
+36.129999999999995 didn't work!
+36.14 didn't work!
+36.150000000000006 didn't work!
+36.16 didn't work!
+36.17 didn't work!
+36.18 didn't work!
+36.19 produced a value error
+36.2 didn't work!
+36.21 didn't work!
+36.22 didn't work!
+36.230000000000004 didn't work!
+36.24 didn't work!
+36.25 didn't work!
+36.260000000000005 produced a value error
+36.269999999999996 didn't work!
+36.28 produced a value error
+36.29 didn't work!
+36.3 didn't work!
+36.31 didn't work!
+36.32 didn't work!
+36.33 didn't work!
+36.34 produced a value error
+36.35 produced a value error
+36.36 produced a value error
+36.370000000000005 didn't work!
+36.379999999999995 produced a value error
+36.39 didn't work!
+36.400000000000006 didn't work!
+36.41 produced a value error
+36.42 didn't work!
+36.43 produced a value error
+36.44 didn't work!
+36.45 didn't work!
+36.46 didn't work!
+36.47 didn't work!
+36.480000000000004 didn't work!
+36.49 didn't work!
+36.5 produced a value error
+36.510000000000005 didn't work!
+36.519999999999996 didn't work!
+36.53 didn't work!
+36.54 didn't work!
+36.55 didn't work!
+36.56 didn't work!
+36.57 produced a value error
+36.58 produced a value error
+36.59 didn't work!
+36.6 produced a value error
+36.61 didn't work!
+36.620000000000005 didn't work!
+36.629999999999995 didn't work!
+36.64 produced a value error
+36.650000000000006 didn't work!
+36.66 didn't work!
+36.67 didn't work!
+36.68 didn't work!
+36.69 didn't work!
+36.7 produced a value error
+36.71 produced a value error
+36.72 didn't work!
+36.730000000000004 didn't work!
+36.74 didn't work!
+36.75 produced a value error
+36.760000000000005 didn't work!
+36.769999999999996 produced a value error
+36.78 produced a value error
+36.79 produced a value error
+36.8 didn't work!
+36.81 didn't work!
+36.82 didn't work!
+36.83 didn't work!
+36.84 didn't work!
+36.85 produced a value error
+36.86 didn't work!
+36.870000000000005 didn't work!
+36.879999999999995 didn't work!
+36.89 didn't work!
+36.900000000000006 produced a value error
+36.91 didn't work!
+36.92 didn't work!
+36.93 produced a value error
+36.94 didn't work!
+36.95 produced a value error
+36.96 produced a value error
+36.97 produced a value error
+36.980000000000004 didn't work!
+36.99 didn't work!
+37.0 didn't work!
+37.010000000000005 didn't work!
+37.019999999999996 didn't work!
+37.03 didn't work!
+37.04 didn't work!
+37.05 didn't work!
+37.06 didn't work!
+37.07 didn't work!
+37.08 didn't work!
+37.09 produced a value error
+37.1 didn't work!
+37.11 didn't work!
+37.120000000000005 didn't work!
+37.129999999999995 didn't work!
+37.14 didn't work!
+37.150000000000006 didn't work!
+37.16 didn't work!
+37.17 didn't work!
+37.18 produced a value error
+37.19 produced a value error
+37.2 didn't work!
+37.21 didn't work!
+37.22 produced a value error
+37.230000000000004 didn't work!
+37.24 didn't work!
+37.25 produced a value error
+37.260000000000005 didn't work!
+37.269999999999996 didn't work!
+37.28 produced a value error
+37.29 didn't work!
+37.3 didn't work!
+37.31 didn't work!
+37.32 produced a value error
+37.33 didn't work!
+37.34 didn't work!
+37.35 didn't work!
+37.36 produced a value error
+37.370000000000005 produced a value error
+
+37.379999999999995 didn't work!
+37.39 produced a value error
+37.400000000000006 didn't work!
+37.41 didn't work!
+37.42 didn't work!
+37.43 didn't work!
+37.44 produced a value error
+37.45 didn't work!
+37.46 didn't work!
+37.47 didn't work!
+37.480000000000004 didn't work!
+37.49 didn't work!
+37.5 didn't work!
+37.510000000000005 didn't work!
+37.519999999999996 didn't work!
+37.53 didn't work!
+37.54 didn't work!
+37.55 didn't work!
+37.56 didn't work!
+37.57 produced a value error
+37.58 didn't work!
+37.59 didn't work!
+37.6 didn't work!
+37.61 didn't work!
+37.620000000000005 didn't work!
+37.629999999999995 didn't work!
+37.64 didn't work!
+37.650000000000006 didn't work!
+37.66 produced a value error
+37.67 didn't work!
+37.68 didn't work!
+37.69 produced a value error
+37.7 didn't work!
+37.71 didn't work!
+37.72 didn't work!
+37.730000000000004 didn't work!
+37.74 didn't work!
+37.75 produced a value error
+37.760000000000005 didn't work!
+37.769999999999996 didn't work!
+37.78 produced a value error
+37.79 didn't work!
+37.8 didn't work!
+37.81 didn't work!
+37.82 didn't work!
+37.83 didn't work!
+37.84 didn't work!
+37.85 didn't work!
+37.86 didn't work!
+37.870000000000005 didn't work!
+37.879999999999995 didn't work!
+37.89 didn't work!
+37.900000000000006 produced a value error
+37.91 didn't work!
+37.92 didn't work!
+37.93 didn't work!
+37.94 didn't work!
+37.95 didn't work!
+37.96 didn't work!
+37.97 didn't work!
+37.980000000000004 produced a value error
+37.99 didn't work!
+38.0 didn't work!
+38.010000000000005 produced a value error
+38.019999999999996 didn't work!
+38.03 didn't work!
+38.04 didn't work!
+38.05 didn't work!
+38.06 didn't work!
+38.07 didn't work!
+38.08 didn't work!
+38.09 didn't work!
+38.1 didn't work!
+38.11 didn't work!
+38.120000000000005 didn't work!
+38.129999999999995 didn't work!
+38.14 didn't work!
+38.150000000000006 produced a value error
+38.16 didn't work!
+38.17 didn't work!
+38.18 didn't work!
+38.19 didn't work!
+38.2 produced a value error
+38.21 didn't work!
+38.22 didn't work!
+38.230000000000004 didn't work!
+38.24 produced a value error
+38.25 didn't work!
+38.260000000000005 didn't work!
+38.269999999999996 didn't work!
+38.28 didn't work!
+38.29 didn't work!
+38.3 didn't work!
+38.31 didn't work!
+38.32 produced a value error
+38.33 didn't work!
+38.34 didn't work!
+38.35 didn't work!
+38.36 didn't work!
+38.370000000000005 didn't work!
+38.379999999999995 produced a value error
+38.39 produced a value error
+38.400000000000006 didn't work!
+38.41 didn't work!
+38.42 didn't work!
+38.43 didn't work!
+38.44 didn't work!
+38.45 didn't work!
+38.46 produced a value error
+38.47 didn't work!
+38.480000000000004 produced a value error
+38.49 didn't work!
+38.5 didn't work!
+38.510000000000005 didn't work!
+38.519999999999996 produced a value error
+38.53 didn't work!
+38.54 didn't work!
+38.55 didn't work!
+38.56 didn't work!
+38.57 didn't work!
+38.58 didn't work!
+38.59 didn't work!
+38.6 produced a value error
+38.61 produced a value error
+38.620000000000005 produced a value error
+38.629999999999995 didn't work!
+38.64 produced a value error
+38.650000000000006 didn't work!
+38.66 didn't work!
+38.67 didn't work!
+38.68 didn't work!
+38.69 didn't work!
+38.7 didn't work!
+38.71 didn't work!
+38.72 produced a value error
+38.730000000000004 didn't work!
+38.74 didn't work!
+38.75 didn't work!
+38.760000000000005 produced a value error
+38.769999999999996 didn't work!
+38.78 didn't work!
+38.79 produced a value error
+38.8 didn't work!
+38.81 didn't work!
+38.82 didn't work!
+38.83 didn't work!
+38.84 produced a value error
+38.85 didn't work!
+38.86 didn't work!
+38.870000000000005 didn't work!
+38.879999999999995 didn't work!
+38.89 didn't work!
+38.900000000000006 didn't work!
+38.91 didn't work!
+38.92 didn't work!
+38.93 didn't work!
+38.94 produced a value error
+38.95 didn't work!
+38.96 didn't work!
+38.97 didn't work!
+38.980000000000004 produced a value error
+38.99 didn't work!
+39.0 didn't work!
+39.01 produced a value error
+39.02 didn't work!
+39.03 didn't work!
+39.04 didn't work!
+39.05 didn't work!
+39.06 didn't work!
+39.07 didn't work!
+39.08 didn't work!
+39.09 didn't work!
+39.1 didn't work!
+39.11 didn't work!
+39.12 didn't work!
+39.13 didn't work!
+39.14 produced a value error
+39.15 didn't work!
+39.160000000000004 didn't work!
+39.17 didn't work!
+39.18 didn't work!
+39.19 produced a value error
+39.2 didn't work!
+39.21 didn't work!
+39.22 didn't work!
+39.230000000000004 didn't work!
+39.24 didn't work!
+39.25 didn't work!
+39.26 produced a value error
+39.27 didn't work!
+39.28 didn't work!
+39.29 didn't work!
+39.3 didn't work!
+39.31 didn't work!
+39.32 produced a value error
+39.33 produced a value error
+39.34 didn't work!
+39.35 produced a value error
+39.36 produced a value error
+39.37 didn't work!
+39.38 didn't work!
+39.39 produced a value error
+39.4 produced a value error
+39.410000000000004 produced a value error
+39.42 didn't work!
+39.43 didn't work!
+39.44 produced a value error
+39.45 didn't work!
+39.46 didn't work!
+39.47 produced a value error
+39.480000000000004 didn't work!
+39.49 didn't work!
+39.5 produced a value error
+39.51 didn't work!
+39.52 didn't work!
+39.53 didn't work!
+39.54 produced a value error
+39.55 didn't work!
+39.56 didn't work!
+39.57 produced a value error
+39.58 didn't work!
+39.59 didn't work!
+39.6 didn't work!
+39.61 didn't work!
+39.62 didn't work!
+39.63 didn't work!
+39.64 didn't work!
+39.65 didn't work!
+39.660000000000004 didn't work!
+39.67 didn't work!
+39.68 didn't work!
+39.69 didn't work!
+39.7 didn't work!
+39.71 didn't work!
+39.72 produced a value error
+39.730000000000004 produced a value error
+39.74 didn't work!
+39.75 didn't work!
+39.76 didn't work!
+39.77 produced a value error
+39.78 didn't work!
+39.79 produced a value error
+39.8 didn't work!
+39.81 didn't work!
+39.82 didn't work!
+39.83 didn't work!
+39.84 didn't work!
+39.85 didn't work!
+39.86 didn't work!
+39.87 didn't work!
+39.88 didn't work!
+39.89 didn't work!
+39.9 didn't work!
+39.910000000000004 didn't work!
+39.92 produced a value error
+39.93 didn't work!
+39.94 didn't work!
+39.95 didn't work!
+No nans/infs reported. 39.96 works!
+39.97 produced a value error
+39.980000000000004 didn't work!
+39.99 produced a value error
+40.0 didn't work!
+40.01 produced a value error
+40.02 didn't work!
+40.03 didn't work!
+40.04 produced a value error
+40.05 didn't work!
+40.06 produced a value error
+40.07 didn't work!
+40.08 didn't work!
+40.09 didn't work!
+40.1 didn't work!
+40.11 didn't work!
+40.12 produced a value error
+40.13 produced a value error
+40.14 didn't work!
+40.15 didn't work!
+40.160000000000004 produced a value error
+40.17 didn't work!
+40.18 produced a value error
+40.19 didn't work!
+40.2 didn't work!
+40.21 didn't work!
+40.22 produced a value error
+40.230000000000004 didn't work!
+40.24 didn't work!
+40.25 produced a value error
+40.26 didn't work!
+40.27 produced a value error
+40.28 didn't work!
+40.29 produced a value error
+40.3 didn't work!
+40.31 didn't work!
+40.32 produced a value error
+40.33 didn't work!
+40.34 produced a value error
+40.35 didn't work!
+40.36 didn't work!
+40.37 produced a value error
+40.38 didn't work!
+40.39 didn't work!
+40.4 didn't work!
+40.410000000000004 didn't work!
+40.42 didn't work!
+40.43 didn't work!
+40.44 didn't work!
+40.45 didn't work!
+40.46 produced a value error
+40.47 didn't work!
+40.480000000000004 produced a value error
+40.49 didn't work!
+40.5 produced a value error
+40.51 didn't work!
+40.52 didn't work!
+40.53 didn't work!
+40.54 didn't work!
+40.55 didn't work!
+40.56 didn't work!
+40.57 didn't work!
+40.58 didn't work!
+40.59 didn't work!
+40.6 didn't work!
+40.61 didn't work!
+40.62 produced a value error
+40.63 didn't work!
+40.64 didn't work!
+40.65 didn't work!
+40.660000000000004 didn't work!
+40.67 didn't work!
+40.68 produced a value error
+40.69 didn't work!
+40.7 didn't work!
+40.71 didn't work!
+40.72 didn't work!
+40.730000000000004 didn't work!
+40.74 didn't work!
+40.75 didn't work!
+40.76 didn't work!
+40.77 produced a value error
+40.78 didn't work!
+40.79 didn't work!
+40.8 didn't work!
+40.81 didn't work!
+40.82 didn't work!
+40.83 didn't work!
+40.84 didn't work!
+40.85 didn't work!
+40.86 didn't work!
+40.87 didn't work!
+40.88 didn't work!
+40.89 didn't work!
+40.9 didn't work!
+40.910000000000004 didn't work!
+40.92 produced a value error
+40.93 didn't work!
+40.94 didn't work!
+
+40.95 produced a value error
+40.96 didn't work!
+40.97 produced a value error
+40.980000000000004 didn't work!
+40.99 didn't work!
+41.0 didn't work!
+41.01 didn't work!
+41.02 didn't work!
+41.03 didn't work!
+41.04 didn't work!
+41.05 didn't work!
+41.06 didn't work!
+41.07 didn't work!
+41.08 didn't work!
+41.09 didn't work!
+41.1 didn't work!
+41.11 didn't work!
+41.12 didn't work!
+41.13 didn't work!
+41.14 didn't work!
+41.15 didn't work!
+41.160000000000004 didn't work!
+41.17 didn't work!
+41.18 didn't work!
+41.19 didn't work!
+41.2 didn't work!
+41.21 produced a value error
+41.22 didn't work!
+41.230000000000004 didn't work!
+41.24 didn't work!
+41.25 produced a value error
+41.26 didn't work!
+41.27 didn't work!
+41.28 didn't work!
+41.29 produced a value error
+41.300000000000004 didn't work!
+41.31 produced a value error
+41.32 produced a value error
+41.33 didn't work!
+41.34 didn't work!
+41.35 didn't work!
+41.36 didn't work!
+41.37 produced a value error
+41.38 produced a value error
+41.39 didn't work!
+41.4 didn't work!
+41.410000000000004 produced a value error
+41.42 produced a value error
+41.43 didn't work!
+41.44 didn't work!
+41.45 produced a value error
+41.46 didn't work!
+41.47 didn't work!
+41.480000000000004 didn't work!
+41.49 didn't work!
+41.5 didn't work!
+41.51 produced a value error
+41.52 didn't work!
+41.53 didn't work!
+41.54 didn't work!
+41.550000000000004 didn't work!
+41.56 didn't work!
+41.57 didn't work!
+41.58 didn't work!
+41.59 didn't work!
+41.6 didn't work!
+41.61 didn't work!
+41.62 didn't work!
+41.63 didn't work!
+41.64 didn't work!
+41.65 produced a value error
+41.660000000000004 didn't work!
+41.67 produced a value error
+41.68 didn't work!
+41.69 didn't work!
+41.7 didn't work!
+41.71 produced a value error
+41.72 produced a value error
+41.730000000000004 didn't work!
+41.74 didn't work!
+41.75 didn't work!
+41.76 didn't work!
+41.77 produced a value error
+41.78 didn't work!
+41.79 didn't work!
+41.800000000000004 didn't work!
+41.81 didn't work!
+41.82 didn't work!
+41.83 didn't work!
+41.84 didn't work!
+41.85 produced a value error
+41.86 didn't work!
+41.87 produced a value error
+41.88 didn't work!
+41.89 didn't work!
+41.9 didn't work!
+41.910000000000004 didn't work!
+41.92 didn't work!
+41.93 didn't work!
+41.94 didn't work!
+41.95 didn't work!
+41.96 didn't work!
+41.97 produced a value error
+41.980000000000004 didn't work!
+41.99 didn't work!
+42.0 didn't work!
+42.01 didn't work!
+42.02 didn't work!
+42.03 didn't work!
+42.04 didn't work!
+42.050000000000004 didn't work!
+42.06 didn't work!
+42.07 didn't work!
+42.08 didn't work!
+42.09 produced a value error
+42.1 didn't work!
+42.11 didn't work!
+42.12 didn't work!
+42.13 didn't work!
+42.14 didn't work!
+42.15 didn't work!
+42.160000000000004 produced a value error
+42.17 didn't work!
+42.18 didn't work!
+42.19 didn't work!
+42.2 didn't work!
+42.21 produced a value error
+42.22 didn't work!
+42.230000000000004 produced a value error
+42.24 didn't work!
+42.25 didn't work!
+42.26 didn't work!
+42.27 didn't work!
+42.28 produced a value error
+42.29 didn't work!
+42.300000000000004 produced a value error
+42.31 didn't work!
+42.32 didn't work!
+42.33 produced a value error
+42.34 didn't work!
+42.35 didn't work!
+42.36 didn't work!
+42.37 didn't work!
+42.38 produced a value error
+42.39 didn't work!
+42.4 didn't work!
+42.410000000000004 didn't work!
+42.42 didn't work!
+42.43 produced a value error
+42.44 didn't work!
+42.45 didn't work!
+42.46 produced a value error
+42.47 didn't work!
+42.480000000000004 didn't work!
+42.49 didn't work!
+42.5 didn't work!
+42.51 produced a value error
+42.52 didn't work!
+No nans/infs reported. 42.53 works!
+42.54 didn't work!
+42.550000000000004 didn't work!
+42.56 produced a value error
+42.57 didn't work!
+42.58 didn't work!
+42.59 produced a value error
+42.6 didn't work!
+42.61 didn't work!
+42.62 didn't work!
+42.63 didn't work!
+42.64 produced a value error
+42.65 didn't work!
+42.660000000000004 didn't work!
+42.67 didn't work!
+42.68 didn't work!
+42.69 didn't work!
+42.7 didn't work!
+42.71 produced a value error
+42.72 didn't work!
+42.730000000000004 didn't work!
+42.74 didn't work!
+42.75 produced a value error
+42.76 didn't work!
+42.77 produced a value error
+
+For the command:
+sdf= streamdf(sigv/220.,progenitor=orb_back, pot=mw, aA=aAI_mw,leading=False,
+              nTrackChunks=1,tdisrupt=2/conversion.time_in_Gyr(220.,8.))
+where:
+sigv = 9.2 #km/s
+mw= MWPotential2014[2]*1.5
+orb_back = Orbit.from_name("Leo I")
+aAI_mw = actionAngleIsochrone Approx(pot=mw,b=<values above>)
